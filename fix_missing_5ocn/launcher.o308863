@@ -1,0 +1,310 @@
+WARNING (08/08/22 16:36:52): Unable to start dynamic task service. Retrying...
+WARNING (08/08/22 16:36:57): Unable to start dynamic task service. Retrying...
+WARNING (08/08/22 16:37:01): Unable to start dynamic task service. Retrying...
+WARNING (08/08/22 16:37:05): Unable to start dynamic task service. Retrying...
+WARNING (08/08/22 16:37:10): Unable to start dynamic task service. Retrying...
+WARNING (08/08/22 16:37:14): Unable to start dynamic task service. Retrying...
+WARNING (08/08/22 16:37:18): Unable to start dynamic task service. Retrying...
+WARNING (08/08/22 16:37:22): Unable to start dynamic task service. Retrying...
+WARNING (08/08/22 16:37:26): Unable to start dynamic task service. Retrying...
+WARNING (08/08/22 16:37:30): Unable to start dynamic task service. Retrying...
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    1
+   Working directory:  /scratch/07644/oxygen/cesm2_scripts/fix_missing_5ocn/
+   Processes per host: 5
+   Total processes:    5
+   Total jobs:         4
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+using /tmp/launcher.308863.hostlist.Nj69SF7r to get hosts
+starting job on c302-024
+Warning: Permanently added 'c302-024' (ECDSA) to the list of known hosts.
+Launcher: Task 3 running job 1 on c302-024.ls6.tacc.utexas.edu (./post_proc.sh 001 ocn var_ocn_h5day_list h. 10 6)
+Launcher: Task 2 running job 2 on c302-024.ls6.tacc.utexas.edu (./post_proc.sh 002 ocn var_ocn_h5day_list h. 10 6)
+Launcher: Task 0 running job 3 on c302-024.ls6.tacc.utexas.edu (./post_proc.sh 003 ocn var_ocn_h5day_list h. 10 6)
+Outputting POC_FLUX_100m_2.h..001.1850-1859.nc
+Outputting POC_FLUX_100m_2.h..002.1850-1859.nc
+Launcher: Task 4 running job 4 on c302-024.ls6.tacc.utexas.edu (./post_proc.sh 004 ocn var_ocn_h5day_list h. 10 6)
+Outputting POC_FLUX_100m_2.h..003.1850-1859.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1850-1859.nc
+Outputting POC_FLUX_100m_2.h..004.1850-1859.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1850-1859.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1850-1859.nc
+Outputting POC_FLUX_100m_2.h..002.1860-1869.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..001.1860-1869.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1860-1869.nc
+Outputting POC_FLUX_100m_2.h..004.1860-1869.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1860-1869.nc
+Outputting POC_FLUX_100m_2.h..002.1870-1879.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1870-1879.nc
+Outputting POC_FLUX_100m_2.h..004.1870-1879.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1870-1879.nc
+Outputting POC_FLUX_100m_2.h..002.1880-1889.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1880-1889.nc
+Outputting POC_FLUX_100m_2.h..004.1880-1889.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1850-1859.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..002.1890-1899.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1890-1899.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1860-1869.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1880-1889.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..002.1900-1909.nc
+Outputting POC_FLUX_100m_2.h..003.1860-1869.nc
+Outputting POC_FLUX_100m_2.h..001.1870-1879.nc
+Outputting POC_FLUX_100m_2.h..004.1890-1899.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1900-1909.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1860-1869.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1890-1899.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..002.1910-1919.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1870-1879.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..004.1900-1909.nc
+Outputting POC_FLUX_100m_2.h..003.1870-1879.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1910-1919.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1900-1909.nc
+Outputting POC_FLUX_100m_2.h..001.1880-1889.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1870-1879.nc
+Outputting POC_FLUX_100m_2.h..002.1920-1929.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..004.1910-1919.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1920-1929.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1880-1889.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1910-1919.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..003.1880-1889.nc
+Outputting POC_FLUX_100m_2.h..002.1930-1939.nc
+Outputting POC_FLUX_100m_2.h..001.1890-1899.nc
+Outputting POC_FLUX_100m_2.h..004.1920-1929.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1930-1939.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1880-1889.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1920-1929.nc
+Outputting pCO2SURF_2.h..001.1890-1899.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..002.1940-1949.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1940-1949.nc
+Outputting POC_FLUX_100m_2.h..004.1930-1939.nc
+Outputting POC_FLUX_100m_2.h..001.1900-1909.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..003.1890-1899.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1900-1909.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..002.1950-1959.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1930-1939.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1890-1899.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..001.1910-1919.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1910-1919.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1950-1959.nc
+Outputting POC_FLUX_100m_2.h..004.1940-1949.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..003.1900-1909.nc
+Outputting POC_FLUX_100m_2.h..001.1920-1929.nc
+Outputting POC_FLUX_100m_2.h..002.1960-1969.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1940-1949.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1920-1929.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1900-1909.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1960-1969.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..004.1950-1959.nc
+Outputting POC_FLUX_100m_2.h..001.1930-1939.nc
+Outputting POC_FLUX_100m_2.h..003.1910-1919.nc
+Outputting POC_FLUX_100m_2.h..002.1970-1979.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1950-1959.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1970-1979.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1930-1939.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1910-1919.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..004.1960-1969.nc
+Outputting POC_FLUX_100m_2.h..002.1980-1989.nc
+Outputting POC_FLUX_100m_2.h..001.1940-1949.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1960-1969.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1940-1949.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..003.1920-1929.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1980-1989.nc
+Outputting POC_FLUX_100m_2.h..001.1950-1959.nc
+Outputting POC_FLUX_100m_2.h..004.1970-1979.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1970-1979.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1950-1959.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1920-1929.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..002.1990-1999.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..004.1980-1989.nc
+Outputting POC_FLUX_100m_2.h..001.1960-1969.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1960-1969.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1980-1989.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..003.1930-1939.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.1990-1999.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..001.1970-1979.nc
+Outputting POC_FLUX_100m_2.h..004.1990-1999.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1930-1939.nc
+Outputting POC_FLUX_100m_2.h..002.2000-2009.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1970-1979.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.2000-2009.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.1990-1999.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..003.1940-1949.nc
+Outputting POC_FLUX_100m_2.h..002.2010-2014.nc
+Outputting POC_FLUX_100m_2.h..004.2000-2009.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1940-1949.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..002.2010-2014.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..001.1980-1989.nc
+Outputting pCO2SURF_2.h..004.2000-2009.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Launcher: Job 2 completed in 11 seconds.
+Launcher: Task 2 done. Exiting.
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1980-1989.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..004.2010-2014.nc
+Outputting POC_FLUX_100m_2.h..003.1950-1959.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..004.2010-2014.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1950-1959.nc
+Launcher: Job 4 completed in 11 seconds.
+Launcher: Task 4 done. Exiting.
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..001.1990-1999.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.1990-1999.nc
+Outputting POC_FLUX_100m_2.h..003.1960-1969.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1960-1969.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..003.1970-1979.nc
+Outputting POC_FLUX_100m_2.h..001.2000-2009.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1970-1979.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.2000-2009.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..003.1980-1989.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1980-1989.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..001.2010-2014.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..001.2010-2014.nc
+Outputting POC_FLUX_100m_2.h..003.1990-1999.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Launcher: Job 1 completed in 15 seconds.
+Launcher: Task 3 done. Exiting.
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.1990-1999.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..003.2000-2009.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.2000-2009.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Outputting POC_FLUX_100m_2.h..003.2010-2014.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'POC_FLUX_100m_2' is not in and/or does not match contents of input file
+Outputting pCO2SURF_2.h..003.2010-2014.nc
+ncrcat: ERROR nco_xtr_mk() reports user-supplied variable name or regular expression 'pCO2SURF_2' is not in and/or does not match contents of input file
+Launcher: Job 3 completed in 14 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Done. Job exited without errors

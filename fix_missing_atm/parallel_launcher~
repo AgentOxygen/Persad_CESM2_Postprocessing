@@ -1,0 +1,5 @@
+./post_proc.sh 001 atm var_atm_h1_list h1 10
+./post_proc.sh 002 atm var_atm_h1_list h1 10
+./post_proc.sh 003 atm var_atm_h1_list h1 10
+./post_proc.sh 004 atm var_atm_h1_list h1 10
+./post_proc.sh 005 atm var_atm_h1_list h1 10

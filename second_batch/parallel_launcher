@@ -1,0 +1,116 @@
+./post_proc.sh 001 ice var_ice_h1_list h1 10 9
+./post_proc.sh 001 ice var_ice_h_list h. 10 6
+./post_proc.sh 001 lnd var_lnd_h0_list h0 20 6
+./post_proc.sh 001 lnd var_lnd_h1_list h1 10 6
+./post_proc.sh 001 lnd var_lnd_h2_list h2 10 6
+./post_proc.sh 001 lnd var_lnd_h3_list h3 10 15
+./post_proc.sh 001 lnd var_lnd_h4_list h4 10 15
+./post_proc.sh 001 lnd var_lnd_h5_list h5 10 15
+./post_proc.sh 001 lnd var_lnd_h6_list h6 10 15
+./post_proc.sh 001 rof var_rof_h0_list h0 20 6
+./post_proc.sh 001 rof var_rof_h1_list h1 20 15
+
+./post_proc.sh 002 ice var_ice_h1_list h1 10 9
+./post_proc.sh 002 ice var_ice_h_list h. 10 6
+./post_proc.sh 002 lnd var_lnd_h0_list h0 20 6
+./post_proc.sh 002 lnd var_lnd_h1_list h1 10 6
+./post_proc.sh 002 lnd var_lnd_h2_list h2 10 6
+./post_proc.sh 002 lnd var_lnd_h3_list h3 10 15
+./post_proc.sh 002 lnd var_lnd_h4_list h4 10 15
+./post_proc.sh 002 lnd var_lnd_h5_list h5 10 15
+./post_proc.sh 002 lnd var_lnd_h6_list h6 10 15
+./post_proc.sh 002 rof var_rof_h0_list h0 20 6
+./post_proc.sh 002 rof var_rof_h1_list h1 20 15
+
+./post_proc.sh 003 ice var_ice_h1_list h1 10 9
+./post_proc.sh 003 ice var_ice_h_list h. 10 6
+./post_proc.sh 003 lnd var_lnd_h0_list h0 20 6
+./post_proc.sh 003 lnd var_lnd_h1_list h1 10 6
+./post_proc.sh 003 lnd var_lnd_h2_list h2 10 6
+./post_proc.sh 003 lnd var_lnd_h3_list h3 10 15
+./post_proc.sh 003 lnd var_lnd_h4_list h4 10 15
+./post_proc.sh 003 lnd var_lnd_h5_list h5 10 15
+./post_proc.sh 003 lnd var_lnd_h6_list h6 10 15
+./post_proc.sh 003 rof var_rof_h0_list h0 20 6
+./post_proc.sh 003 rof var_rof_h1_list h1 20 15
+
+./post_proc.sh 004 ice var_ice_h1_list h1 10 9
+./post_proc.sh 004 ice var_ice_h_list h. 10 6
+./post_proc.sh 004 lnd var_lnd_h0_list h0 20 6
+./post_proc.sh 004 lnd var_lnd_h1_list h1 10 6
+./post_proc.sh 004 lnd var_lnd_h2_list h2 10 6
+./post_proc.sh 004 lnd var_lnd_h3_list h3 10 15
+./post_proc.sh 004 lnd var_lnd_h4_list h4 10 15
+./post_proc.sh 004 lnd var_lnd_h5_list h5 10 15
+./post_proc.sh 004 lnd var_lnd_h6_list h6 10 15
+./post_proc.sh 004 rof var_rof_h0_list h0 20 6
+./post_proc.sh 004 rof var_rof_h1_list h1 20 15
+
+./post_proc.sh 005 ice var_ice_h1_list h1 10 9
+./post_proc.sh 005 ice var_ice_h_list h. 10 6
+./post_proc.sh 005 lnd var_lnd_h0_list h0 20 6
+./post_proc.sh 005 lnd var_lnd_h1_list h1 10 6
+./post_proc.sh 005 lnd var_lnd_h2_list h2 10 6
+./post_proc.sh 005 lnd var_lnd_h3_list h3 10 15
+./post_proc.sh 005 lnd var_lnd_h4_list h4 10 15
+./post_proc.sh 005 lnd var_lnd_h5_list h5 10 15
+./post_proc.sh 005 lnd var_lnd_h6_list h6 10 15
+./post_proc.sh 005 rof var_rof_h0_list h0 20 6
+./post_proc.sh 005 rof var_rof_h1_list h1 20 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

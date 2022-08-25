@@ -1,0 +1,74 @@
+./new_post_proc.sh 001 atm var_atm_h0_list1 h0 20
+./new_post_proc.sh 001 atm var_atm_h0_list2 h0 20
+./new_post_proc.sh 001 atm var_atm_h0_list3 h0 20
+./new_post_proc.sh 001 atm var_atm_h0_list4 h0 20
+./new_post_proc.sh 001 atm var_atm_h0_list5 h0 20
+./new_post_proc.sh 001 atm var_atm_h0_list6 h0 20
+./new_post_proc.sh 001 atm var_atm_h0_list7 h0 20
+./new_post_proc.sh 001 atm var_atm_h0_list8 h0 20
+./new_post_proc.sh 001 atm var_atm_h0_list9 h0 20
+./new_post_proc.sh 001 atm var_atm_h0_list10 h0 20
+
+./new_post_proc.sh 002 atm var_atm_h0_list1 h0 20
+./new_post_proc.sh 002 atm var_atm_h0_list2 h0 20
+./new_post_proc.sh 002 atm var_atm_h0_list3 h0 20
+./new_post_proc.sh 002 atm var_atm_h0_list4 h0 20
+./new_post_proc.sh 002 atm var_atm_h0_list5 h0 20
+./new_post_proc.sh 002 atm var_atm_h0_list6 h0 20
+./new_post_proc.sh 002 atm var_atm_h0_list7 h0 20
+./new_post_proc.sh 002 atm var_atm_h0_list8 h0 20
+./new_post_proc.sh 002 atm var_atm_h0_list9 h0 20
+./new_post_proc.sh 002 atm var_atm_h0_list10 h0 20
+
+./new_post_proc.sh 003 atm var_atm_h0_list1 h0 20
+./new_post_proc.sh 003 atm var_atm_h0_list2 h0 20
+./new_post_proc.sh 003 atm var_atm_h0_list3 h0 20
+./new_post_proc.sh 003 atm var_atm_h0_list4 h0 20
+./new_post_proc.sh 003 atm var_atm_h0_list5 h0 20
+./new_post_proc.sh 003 atm var_atm_h0_list6 h0 20
+./new_post_proc.sh 003 atm var_atm_h0_list7 h0 20
+./new_post_proc.sh 003 atm var_atm_h0_list8 h0 20
+./new_post_proc.sh 003 atm var_atm_h0_list9 h0 20
+./new_post_proc.sh 003 atm var_atm_h0_list10 h0 20
+
+./new_post_proc.sh 004 atm var_atm_h0_list1 h0 20
+./new_post_proc.sh 004 atm var_atm_h0_list2 h0 20
+./new_post_proc.sh 004 atm var_atm_h0_list3 h0 20
+./new_post_proc.sh 004 atm var_atm_h0_list4 h0 20
+./new_post_proc.sh 004 atm var_atm_h0_list5 h0 20
+./new_post_proc.sh 004 atm var_atm_h0_list6 h0 20
+./new_post_proc.sh 004 atm var_atm_h0_list7 h0 20
+./new_post_proc.sh 004 atm var_atm_h0_list8 h0 20
+./new_post_proc.sh 004 atm var_atm_h0_list9 h0 20
+./new_post_proc.sh 004 atm var_atm_h0_list10 h0 20
+
+./new_post_proc.sh 005 atm var_atm_h0_list1 h0 20
+./new_post_proc.sh 005 atm var_atm_h0_list2 h0 20
+./new_post_proc.sh 005 atm var_atm_h0_list3 h0 20
+./new_post_proc.sh 005 atm var_atm_h0_list4 h0 20
+./new_post_proc.sh 005 atm var_atm_h0_list5 h0 20
+./new_post_proc.sh 005 atm var_atm_h0_list6 h0 20
+./new_post_proc.sh 005 atm var_atm_h0_list7 h0 20
+./new_post_proc.sh 005 atm var_atm_h0_list8 h0 20
+./new_post_proc.sh 005 atm var_atm_h0_list9 h0 20
+./new_post_proc.sh 005 atm var_atm_h0_list10 h0 20
+
+./new_post_proc.sh 001 atm var_atm_h1_list h1 10
+./new_post_proc.sh 001 atm var_atm_h2_list h2 10
+./new_post_proc.sh 001 atm var_atm_h3_list h3 10
+
+./new_post_proc.sh 002 atm var_atm_h1_list h1 10
+./new_post_proc.sh 002 atm var_atm_h2_list h2 10
+./new_post_proc.sh 002 atm var_atm_h3_list h3 10
+
+./new_post_proc.sh 003 atm var_atm_h1_list h1 10
+./new_post_proc.sh 003 atm var_atm_h2_list h2 10
+./new_post_proc.sh 003 atm var_atm_h3_list h3 10
+
+./new_post_proc.sh 004 atm var_atm_h1_list h1 10
+./new_post_proc.sh 004 atm var_atm_h2_list h2 10
+./new_post_proc.sh 004 atm var_atm_h3_list h3 10
+
+./new_post_proc.sh 005 atm var_atm_h1_list h1 10
+./new_post_proc.sh 005 atm var_atm_h2_list h2 10
+./new_post_proc.sh 005 atm var_atm_h3_list h3 10

@@ -1,0 +1,5 @@
+./post_proc.sh 001 ocn var_ocn_h5day_list h. 10 6
+./post_proc.sh 002 ocn var_ocn_h5day_list h. 10 6
+./post_proc.sh 003 ocn var_ocn_h5day_list h. 10 6
+./post_proc.sh 004 ocn var_ocn_h5day_list h. 10 6
+./post_proc.sh 005 ocn var_ocn_h5day_list h. 10 6

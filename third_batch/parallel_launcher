@@ -1,0 +1,49 @@
+./post_proc.sh 001 ocn var_ocn_h5day_list h.5day 10 9
+./post_proc.sh 001 ocn var_ocn_h_list1 h. 20 6
+./post_proc.sh 001 ocn var_ocn_h_list2 h. 20 6
+./post_proc.sh 001 ocn var_ocn_h_list3 h. 20 6
+./post_proc.sh 001 ocn var_ocn_h_list4 h. 20 6
+./post_proc.sh 001 ocn var_ocn_h_list5 h. 20 6
+./post_proc.sh 001 ocn var_ocn_h_list6 h. 20 6
+./post_proc.sh 001 ocn var_ocn_h_list7 h. 20 6
+./post_proc.sh 001 ocn var_ocn_h_list8 h. 20 6
+
+./post_proc.sh 002 ocn var_ocn_h5day_list h.5day 10 9
+./post_proc.sh 002 ocn var_ocn_h_list1 h. 20 6
+./post_proc.sh 002 ocn var_ocn_h_list2 h. 20 6
+./post_proc.sh 002 ocn var_ocn_h_list3 h. 20 6
+./post_proc.sh 002 ocn var_ocn_h_list4 h. 20 6
+./post_proc.sh 002 ocn var_ocn_h_list5 h. 20 6
+./post_proc.sh 002 ocn var_ocn_h_list6 h. 20 6
+./post_proc.sh 002 ocn var_ocn_h_list7 h. 20 6
+./post_proc.sh 002 ocn var_ocn_h_list8 h. 20 6
+
+./post_proc.sh 003 ocn var_ocn_h5day_list h.5day 10 9
+./post_proc.sh 003 ocn var_ocn_h_list1 h. 20 6
+./post_proc.sh 003 ocn var_ocn_h_list2 h. 20 6
+./post_proc.sh 003 ocn var_ocn_h_list3 h. 20 6
+./post_proc.sh 003 ocn var_ocn_h_list4 h. 20 6
+./post_proc.sh 003 ocn var_ocn_h_list5 h. 20 6
+./post_proc.sh 003 ocn var_ocn_h_list6 h. 20 6
+./post_proc.sh 003 ocn var_ocn_h_list7 h. 20 6
+./post_proc.sh 003 ocn var_ocn_h_list8 h. 20 6
+
+./post_proc.sh 004 ocn var_ocn_h5day_list h.5day 10 9
+./post_proc.sh 004 ocn var_ocn_h_list1 h. 20 6
+./post_proc.sh 004 ocn var_ocn_h_list2 h. 20 6
+./post_proc.sh 004 ocn var_ocn_h_list3 h. 20 6
+./post_proc.sh 004 ocn var_ocn_h_list4 h. 20 6
+./post_proc.sh 004 ocn var_ocn_h_list5 h. 20 6
+./post_proc.sh 004 ocn var_ocn_h_list6 h. 20 6
+./post_proc.sh 004 ocn var_ocn_h_list7 h. 20 6
+./post_proc.sh 004 ocn var_ocn_h_list8 h. 20 6
+
+./post_proc.sh 005 ocn var_ocn_h5day_list h.5day 10 9
+./post_proc.sh 005 ocn var_ocn_h_list1 h. 20 6
+./post_proc.sh 005 ocn var_ocn_h_list2 h. 20 6
+./post_proc.sh 005 ocn var_ocn_h_list3 h. 20 6
+./post_proc.sh 005 ocn var_ocn_h_list4 h. 20 6
+./post_proc.sh 005 ocn var_ocn_h_list5 h. 20 6
+./post_proc.sh 005 ocn var_ocn_h_list6 h. 20 6
+./post_proc.sh 005 ocn var_ocn_h_list7 h. 20 6
+./post_proc.sh 005 ocn var_ocn_h_list8 h. 20 6

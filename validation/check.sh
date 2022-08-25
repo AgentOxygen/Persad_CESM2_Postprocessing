@@ -1,0 +1,34 @@
+#!/bin/bash
+
+# Checks if files exists in given parameters and prints missing files
+
+EN_NUM=1
+DIR_PATH="/scratch/07644/oxygen/cesm2_output"
+
+while (( $EN_NUM <= 5 ))
+do
+    for VAR_LIST in ./*list
+    do
+        while IFS=' ' read -ra LINE
+	do
+	    COMP=${VAR_LIST: 6: 3}
+	    VAR=${LINE[1]}
+	    H_VAL=${VAR_LIST: 10: 2}
+	    if [ $H_VAL == "h_" ]
+	    then
+		H_VAL="h"
+	    elif [ $H_VAL == "hd" ]
+	    then
+		H_VAL="h.5day"
+	    fi
+	    
+	    FILE_PATH="${DIR_PATH}/b.e21.B1850cmip6.f09_g17.CESM2-SF-AA_EE.n8.00${EN_NUM}/${COMP}"
+      	    FILE_COUNT=$(( $(ls "${FILE_PATH}/${VAR}.${H_VAL}"* | wc -l) ))
+	    if [ $FILE_COUNT != 16 ] && [ $FILE_COUNT != 9 ] && [ $FILE_COUNT != 17 ]
+	    then
+		echo $FILE_COUNT: "${VAR_LIST} ${VAR}.${H_VAL}*"
+	    fi
+	done < "$VAR_LIST"
+    done
+    EN_NUM=$(( EN_NUM + 1 ))
+done
