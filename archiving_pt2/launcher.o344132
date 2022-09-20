@@ -1,0 +1,2134 @@
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    1
+   Working directory:  /scratch/07644/oxygen/archived_vars
+   Processes per host: 20
+   Total processes:    20
+   Total jobs:         154
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+using /tmp/launcher.344132.hostlist.tMMpFchA to get hosts
+starting job on c307-012
+Launcher: Task 6 running job 2 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-1.tar lnd-SOILICE.h5.tar )
+Launcher: Task 7 running job 1 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-0.tar lnd-TSOI.h5.tar )
+Launcher: Task 16 running job 3 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-2.tar lnd-SOILLIQ.h5.tar )
+lnd-SOILICE.h5.tar
+lnd-SOILLIQ.h5.tar
+Launcher: Task 19 running job 4 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-3.tar ice-vsnon_d.h1.tar )
+ice-vsnon_d.h1.tar
+lnd-TSOI.h5.tar
+Launcher: Task 15 running job 5 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-4.tar ice-aicen_d.h1.tar )
+Launcher: Task 3 running job 6 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-5.tar ice-vicen_d.h1.tar )
+ice-vicen_d.h1.tar
+ice-aicen_d.h1.tar
+Launcher: Task 17 running job 7 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-6.tar lnd-TLAKE.h5.tar )
+lnd-TLAKE.h5.tar
+Launcher: Task 5 running job 8 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-7.tar rof-RIVER_DISCHARGE_OVER_LAND_LIQ.h1.tar )
+Launcher: Task 11 running job 9 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-8.tar rof-TOTAL_DISCHARGE_TO_OCEAN_LIQ.h1.tar )
+Launcher: Task 1 running job 10 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-9.tar atm-PRECC.h3.tar )
+Launcher: Task 9 running job 11 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-10.tar atm-PRECL.h3.tar )
+rof-RIVER_DISCHARGE_OVER_LAND_LIQ.h1.tar
+rof-TOTAL_DISCHARGE_TO_OCEAN_LIQ.h1.tar
+atm-PRECL.h3.tar
+atm-PRECC.h3.tar
+Launcher: Task 10 running job 12 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-11.tar atm-UBOT.h3.tar )
+Launcher: Task 4 running job 13 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-12.tar atm-VBOT.h3.tar )
+atm-VBOT.h3.tar
+atm-UBOT.h3.tar
+Launcher: Task 14 running job 14 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-13.tar atm-CLDLOW.h3.tar )
+Launcher: Task 12 running job 15 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-14.tar ocn-WISOP.h.tar ocn-WSUBM.h.tar )
+ocn-WISOP.h.tar
+atm-CLDLOW.h3.tar
+Launcher: Task 2 running job 16 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-15.tar ocn-WVEL.h.tar ocn-ADV_3D_SALT.h.tar )
+ocn-WVEL.h.tar
+Launcher: Task 8 running job 17 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-16.tar ocn-ADV_3D_TEMP.h.tar ocn-DIA_IMPVF_SALT.h.tar )
+Launcher: Task 13 running job 19 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-18.tar ocn-insitu_temp.h.tar ocn-ISOP_ADV_TEND_SALT.h.tar )
+Launcher: Task 0 running job 18 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-17.tar ocn-DIA_IMPVF_TEMP.h.tar ocn-IAGE.h.tar )
+ocn-ADV_3D_TEMP.h.tar
+ocn-insitu_temp.h.tar
+Launcher: Task 18 running job 20 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-19.tar ocn-ISOP_ADV_TEND_TEMP.h.tar ocn-KAPPA_ISOP.h.tar )
+ocn-DIA_IMPVF_TEMP.h.tar
+ocn-ISOP_ADV_TEND_TEMP.h.tar
+ocn-IAGE.h.tar
+ocn-DIA_IMPVF_SALT.h.tar
+ocn-ADV_3D_SALT.h.tar
+ocn-KAPPA_ISOP.h.tar
+ocn-WSUBM.h.tar
+ocn-ISOP_ADV_TEND_SALT.h.tar
+Launcher: Job 10 completed in 1226 seconds.
+Launcher: Task 1 running job 21 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-20.tar ocn-KAPPA_THIC.h.tar ocn-KE.h.tar )
+ocn-KAPPA_THIC.h.tar
+Launcher: Job 11 completed in 1321 seconds.
+Launcher: Task 9 running job 22 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-21.tar ocn-KVMIX.h.tar ocn-KVMIX_M.h.tar )
+ocn-KVMIX.h.tar
+Launcher: Job 17 completed in 1318 seconds.
+Launcher: Task 8 running job 23 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-22.tar ocn-PD.h.tar ocn-PV.h.tar )
+ocn-PD.h.tar
+Launcher: Job 14 completed in 1376 seconds.
+Launcher: Task 14 running job 24 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-23.tar ocn-Q.h.tar ocn-QSW_3D.h.tar )
+ocn-Q.h.tar
+Launcher: Job 16 completed in 1393 seconds.
+Launcher: Task 2 running job 25 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-24.tar ocn-Redi_TEND_SALT.h.tar ocn-Redi_TEND_TEMP.h.tar )
+ocn-Redi_TEND_SALT.h.tar
+Launcher: Job 7 completed in 1431 seconds.
+Launcher: Task 17 running job 26 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-25.tar ocn-RF_TEND_SALT.h.tar ocn-RF_TEND_TEMP.h.tar )
+ocn-RF_TEND_SALT.h.tar
+Launcher: Job 15 completed in 1474 seconds.
+Launcher: Task 12 running job 27 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-26.tar ocn-RHO.h.tar ocn-SALT.h.tar )
+ocn-RHO.h.tar
+Launcher: Job 19 completed in 1592 seconds.
+Launcher: Task 13 running job 28 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-27.tar ocn-SUBM_ADV_TEND_SALT.h.tar ocn-TEMP2.h.tar )
+ocn-SUBM_ADV_TEND_SALT.h.tar
+Launcher: Job 20 completed in 1611 seconds.
+Launcher: Task 18 running job 29 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-28.tar ocn-TEMP.h.tar ocn-TEND_SALT.h.tar )
+ocn-TEMP.h.tar
+Launcher: Job 9 completed in 1631 seconds.
+Launcher: Task 11 running job 30 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-29.tar ocn-TIDAL_DIFF.h.tar ocn-TPOWER.h.tar )
+ocn-TIDAL_DIFF.h.tar
+Launcher: Job 12 completed in 1639 seconds.
+Launcher: Task 10 running job 31 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-30.tar ocn-UISOP.h.tar ocn-USUBM.h.tar )
+ocn-UISOP.h.tar
+Launcher: Job 8 completed in 1657 seconds.
+Launcher: Task 5 running job 32 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-31.tar ocn-UVEL.h.tar ocn-VDC_S.h.tar )
+ocn-UVEL.h.tar
+Launcher: Job 13 completed in 1657 seconds.
+Launcher: Task 4 running job 33 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-32.tar ocn-VDC_T.h.tar ocn-VISOP.h.tar )
+ocn-VDC_T.h.tar
+Launcher: Job 5 completed in 1692 seconds.
+Launcher: Task 15 running job 34 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-33.tar ocn-VNS.h.tar ocn-VNS_ISOP.h.tar )
+ocn-VNS.h.tar
+Launcher: Job 18 completed in 1698 seconds.
+Launcher: Task 0 running job 35 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-34.tar ocn-VNS_SUBM.h.tar ocn-VNT.h.tar )
+ocn-VNS_SUBM.h.tar
+ocn-KE.h.tar
+ocn-PV.h.tar
+ocn-Redi_TEND_TEMP.h.tar
+ocn-QSW_3D.h.tar
+ocn-VISOP.h.tar
+ocn-KVMIX_M.h.tar
+Launcher: Job 6 completed in 2288 seconds.
+Launcher: Task 3 running job 36 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-35.tar ocn-VNT_ISOP.h.tar ocn-VNT_SUBM.h.tar )
+ocn-VNT_ISOP.h.tar
+ocn-RF_TEND_TEMP.h.tar
+ocn-SALT.h.tar
+ocn-VNS_ISOP.h.tar
+ocn-USUBM.h.tar
+ocn-TEMP2.h.tar
+ocn-VDC_S.h.tar
+Launcher: Job 4 completed in 2428 seconds.
+Launcher: Task 19 running job 37 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-36.tar ocn-VSUBM.h.tar ocn-VVC.h.tar )
+ocn-VSUBM.h.tar
+ocn-TPOWER.h.tar
+ocn-TEND_SALT.h.tar
+ocn-VNT.h.tar
+Launcher: Job 21 completed in 1526 seconds.
+Launcher: Task 1 running job 38 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-37.tar ocn-VVEL.h.tar ocn-SUBM_ADV_TEND_TEMP.h.tar )
+ocn-VVEL.h.tar
+Launcher: Job 23 completed in 1443 seconds.
+Launcher: Task 8 running job 39 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-38.tar atm-UBOT.h2.tar atm-FLUT.h2.tar )
+atm-UBOT.h2.tar
+Launcher: Job 33 completed in 1218 seconds.
+Launcher: Task 4 running job 40 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-39.tar atm-OMEGA500.h2.tar atm-PRECC.h2.tar )
+atm-OMEGA500.h2.tar
+Launcher: Job 25 completed in 1487 seconds.
+Launcher: Task 2 running job 41 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-40.tar atm-PRECL.h2.tar atm-PRECSC.h2.tar )
+atm-PRECL.h2.tar
+Launcher: Job 31 completed in 1336 seconds.
+Launcher: Task 10 running job 42 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-41.tar atm-PRECSL.h2.tar atm-PRECT.h2.tar )
+atm-PRECSL.h2.tar
+Launcher: Job 22 completed in 1674 seconds.
+Launcher: Task 9 running job 43 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-42.tar atm-PSL.h2.tar atm-U200.h2.tar )
+atm-PSL.h2.tar
+Launcher: Job 24 completed in 1631 seconds.
+Launcher: Job 26 completed in 1579 seconds.
+Launcher: Task 14 running job 44 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-43.tar atm-U850.h2.tar atm-V850.h2.tar )
+Launcher: Task 17 running job 45 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-44.tar atm-VBOT.h2.tar atm-Z300.h2.tar )
+atm-VBOT.h2.tar
+atm-U850.h2.tar
+Launcher: Job 34 completed in 1343 seconds.
+Launcher: Task 15 running job 46 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-45.tar atm-Z500.h2.tar atm-RCMINLAYER_CLUBB.h0.tar )
+atm-Z500.h2.tar
+Launcher: Job 27 completed in 1601 seconds.
+Launcher: Task 12 running job 47 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-46.tar ocn-TEND_TEMP.h.tar ocn-bSi_form.h.tar )
+ocn-TEND_TEMP.h.tar
+ocn-VVC.h.tar
+ocn-VNT_SUBM.h.tar
+Launcher: Job 30 completed in 1588 seconds.
+Launcher: Task 11 running job 48 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-47.tar ice-aice_d.h1.tar ice-apond_ai_d.h1.tar ice-congel_d.h1.tar )
+ice-aice_d.h1.tar
+Launcher: Job 28 completed in 1642 seconds.
+Launcher: Task 13 running job 49 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-48.tar ice-daidtd_d.h1.tar ice-daidtt_d.h1.tar ice-dvidtd_d.h1.tar )
+ice-daidtd_d.h1.tar
+Launcher: Job 32 completed in 1582 seconds.
+Launcher: Task 5 running job 50 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-49.tar ice-dvidtt_d.h1.tar ice-frazil_d.h1.tar ice-fswabs_d.h1.tar )
+ice-dvidtt_d.h1.tar
+Launcher: Job 35 completed in 1660 seconds.
+Launcher: Task 0 running job 51 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-50.tar ice-fswdn_d.h1.tar ice-fswthru_d.h1.tar ice-hi_d.h1.tar )
+ice-fswdn_d.h1.tar
+Launcher: Job 29 completed in 1798 seconds.
+Launcher: Task 18 running job 52 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-51.tar ice-hs_d.h1.tar ice-ice_present_d.h1.tar ice-meltb_d.h1.tar )
+ice-hs_d.h1.tar
+atm-PRECC.h2.tar
+atm-FLUT.h2.tar
+ice-apond_ai_d.h1.tar
+ice-frazil_d.h1.tar
+ice-daidtt_d.h1.tar
+atm-V850.h2.tar
+ocn-SUBM_ADV_TEND_TEMP.h.tar
+atm-Z300.h2.tar
+atm-PRECSC.h2.tar
+atm-RCMINLAYER_CLUBB.h0.tar
+atm-PRECT.h2.tar
+ocn-bSi_form.h.tar
+ice-ice_present_d.h1.tar
+Launcher: Job 37 completed in 1338 seconds.
+Launcher: Task 19 running job 53 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-52.tar ice-meltl_d.h1.tar ice-melts_d.h1.tar ice-meltt_d.h1.tar )
+ice-meltl_d.h1.tar
+ice-fswthru_d.h1.tar
+Launcher: Job 36 completed in 1495 seconds.
+Launcher: Task 3 running job 54 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-53.tar ice-sisnthick_d.h1.tar ice-sispeed_d.h1.tar ice-sitemptop_d.h1.tar )
+ice-sisnthick_d.h1.tar
+Launcher: Job 1 completed in 3800 seconds.
+Launcher: Task 7 running job 55 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-54.tar ice-sithick_d.h1.tar ice-siu_d.h1.tar ice-siv_d.h1.tar )
+ice-sithick_d.h1.tar
+atm-U200.h2.tar
+Launcher: Job 46 completed in 800 seconds.
+Launcher: Task 15 running job 56 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-55.tar lnd-VEGWP.h1.tar lnd-NPP.h6.tar lnd-TREFMNAV.h6.tar lnd-TREFMXAV.h6.tar )
+lnd-VEGWP.h1.tar
+Launcher: Job 2 completed in 3875 seconds.
+Launcher: Task 6 running job 57 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-56.tar atm-ZM_CLUBB.h0.tar atm-CLOUDCOVER_CLUBB.h0.tar atm-CMFMCDZM.h0.tar atm-CMFMC.h0.tar atm-KVH_CLUBB.h0.tar )
+atm-ZM_CLUBB.h0.tar
+Launcher: Job 47 completed in 798 seconds.
+Launcher: Task 12 running job 58 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-57.tar atm-RCM_CLUBB.h0.tar atm-RHO_CLUBB.h0.tar atm-RTP2_CLUBB.h0.tar atm-RTPTHLP_CLUBB.h0.tar atm-TH.h0.tar )
+atm-RCM_CLUBB.h0.tar
+ice-congel_d.h1.tar
+ice-dvidtd_d.h1.tar
+ice-fswabs_d.h1.tar
+Launcher: Job 3 completed in 4042 seconds.
+Launcher: Task 16 running job 59 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-58.tar atm-THLP2_CLUBB.h0.tar atm-UM_CLUBB.h0.tar atm-UP2_CLUBB.h0.tar atm-UPWP_CLUBB.h0.tar atm-VM_CLUBB.h0.tar )
+atm-THLP2_CLUBB.h0.tar
+atm-RHO_CLUBB.h0.tar
+atm-CLOUDCOVER_CLUBB.h0.tar
+ice-meltb_d.h1.tar
+lnd-NPP.h6.tar
+ice-melts_d.h1.tar
+atm-UM_CLUBB.h0.tar
+Launcher: Job 39 completed in 1444 seconds.
+Launcher: Task 8 running job 60 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-59.tar atm-VP2_CLUBB.h0.tar atm-VPWP_CLUBB.h0.tar atm-WP2_CLUBB.h0.tar atm-WP3_CLUBB.h0.tar atm-WPRCP_CLUBB.h0.tar )
+atm-VP2_CLUBB.h0.tar
+ice-sispeed_d.h1.tar
+ice-hi_d.h1.tar
+atm-RTP2_CLUBB.h0.tar
+Launcher: Job 38 completed in 1503 seconds.
+Launcher: Task 1 running job 61 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-60.tar atm-WPRTP_CLUBB.h0.tar atm-WPTHLP_CLUBB.h0.tar atm-ZT_CLUBB.h0.tar atm-dgnumwet1.h0.tar atm-pom_c4.h0.tar )
+atm-WPRTP_CLUBB.h0.tar
+atm-CMFMCDZM.h0.tar
+ice-siu_d.h1.tar
+Launcher: Job 48 completed in 1099 seconds.
+Launcher: Task 11 running job 62 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-61.tar ocn-diat_agg.h.tar ocn-diatChl.h.tar ocn-diatC.h.tar ocn-diatFe.h.tar ocn-diatP.h.tar )
+ocn-diat_agg.h.tar
+Launcher: Job 45 completed in 1351 seconds.
+Launcher: Task 17 running job 63 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-62.tar ocn-diat_Qp.h.tar ocn-diatSi.h.tar ocn-diaz_agg.h.tar ocn-diazChl.h.tar ocn-diazC.h.tar )
+ocn-diat_Qp.h.tar
+lnd-TREFMNAV.h6.tar
+Launcher: Job 40 completed in 1525 seconds.
+Launcher: Task 4 running job 64 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-63.tar ocn-diazFe.h.tar ocn-diaz_Nfix.h.tar ocn-diazP.h.tar ocn-diaz_Qp.h.tar ocn-DOP_diat_uptake.h.tar )
+ocn-diazFe.h.tar
+atm-UP2_CLUBB.h0.tar
+atm-VPWP_CLUBB.h0.tar
+Launcher: Job 41 completed in 1546 seconds.
+Launcher: Job 44 completed in 1420 seconds.
+Launcher: Task 2 running job 65 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-64.tar ocn-DOP_diaz_uptake.h.tar ocn-DOP_sp_uptake.h.tar ocn-PAR_avg.h.tar ocn-photoC_NO3_TOT.h.tar ocn-photoC_TOT.h.tar )
+Launcher: Task 14 running job 66 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-65.tar ocn-photoFe_diat.h.tar ocn-photoFe_diaz.h.tar ocn-photoFe_sp.h.tar ocn-photoNH4_diat.h.tar ocn-photoNH4_diaz.h.tar )
+ocn-DOP_diaz_uptake.h.tar
+ocn-photoFe_diat.h.tar
+Launcher: Job 50 completed in 1195 seconds.
+Launcher: Task 5 running job 67 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-66.tar ocn-photoNH4_sp.h.tar ocn-photoNO3_diat.h.tar ocn-photoNO3_sp.h.tar ocn-PO4_diat_uptake.h.tar ocn-PO4_diaz_uptake.h.tar )
+ocn-photoNH4_sp.h.tar
+atm-CMFMC.h0.tar
+atm-WPTHLP_CLUBB.h0.tar
+atm-RTPTHLP_CLUBB.h0.tar
+Launcher: Job 42 completed in 1516 seconds.
+Launcher: Task 10 running job 68 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-67.tar ocn-PO4_sp_uptake.h.tar ocn-sp_agg.h.tar ocn-spCaCO3.h.tar ocn-spChl.h.tar ocn-spC.h.tar )
+ocn-PO4_sp_uptake.h.tar
+ocn-diatChl.h.tar
+Launcher: Job 52 completed in 1099 seconds.
+Launcher: Task 18 running job 69 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-68.tar ocn-spFe.h.tar ocn-spP.h.tar ocn-sp_Qp.h.tar ocn-zooC.h.tar ocn-photoNO3_diaz.h.tar )
+ocn-spFe.h.tar
+Launcher: Job 43 completed in 1545 seconds.
+Launcher: Task 9 running job 70 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-69.tar atm-SAD_SULFC.h0.tar atm-ABSORB.h0.tar atm-CLDLIQ.h0.tar atm-CLOY.h0.tar atm-EVAPQZM.h0.tar )
+atm-SAD_SULFC.h0.tar
+lnd-TREFMXAV.h6.tar
+ocn-diatSi.h.tar
+Launcher: Job 49 completed in 1315 seconds.
+Launcher: Task 13 running job 71 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-70.tar atm-EVAPTZM.h0.tar atm-EXTINCTdn.h0.tar atm-EXTINCTNIRdn.h0.tar atm-EXTINCTUVdn.h0.tar atm-EXTxASYMdn.h0.tar )
+atm-EVAPTZM.h0.tar
+ice-meltt_d.h1.tar
+ocn-DOP_sp_uptake.h.tar
+atm-UPWP_CLUBB.h0.tar
+ice-sitemptop_d.h1.tar
+Launcher: Job 51 completed in 1235 seconds.
+Launcher: Task 0 running job 72 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-71.tar atm-NUMICE.h0.tar atm-NUMLIQ.h0.tar atm-NUMRAI.h0.tar atm-NUMSNO.h0.tar atm-QRLC.h0.tar )
+atm-NUMICE.h0.tar
+atm-WP2_CLUBB.h0.tar
+ocn-photoNO3_diat.h.tar
+atm-KVH_CLUBB.h0.tar
+ocn-diaz_Nfix.h.tar
+ocn-sp_agg.h.tar
+atm-ZT_CLUBB.h0.tar
+atm-ABSORB.h0.tar
+ocn-photoFe_diaz.h.tar
+atm-TH.h0.tar
+ice-siv_d.h1.tar
+ocn-spP.h.tar
+ocn-diaz_agg.h.tar
+ocn-diatC.h.tar
+atm-NUMLIQ.h0.tar
+ocn-diazP.h.tar
+atm-EXTINCTdn.h0.tar
+Launcher: Job 56 completed in 978 seconds.
+Launcher: Task 15 running job 73 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-72.tar atm-QRSC.h0.tar atm-RAINQM.h0.tar atm-SNOWQM.h0.tar atm-TOT_CLD_VISTAU.h0.tar atm-ADRAIN.h0.tar )
+atm-QRSC.h0.tar
+ocn-photoNO3_sp.h.tar
+atm-VM_CLUBB.h0.tar
+Launcher: Job 57 completed in 966 seconds.
+Launcher: Task 6 running job 74 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-73.tar atm-ADSNOW.h0.tar atm-ANRAIN.h0.tar atm-ANSNOW.h0.tar atm-AQRAIN.h0.tar atm-AQSNOW.h0.tar )
+atm-ADSNOW.h0.tar
+ocn-spCaCO3.h.tar
+atm-CLDLIQ.h0.tar
+atm-WP3_CLUBB.h0.tar
+ocn-PAR_avg.h.tar
+ocn-photoFe_sp.h.tar
+Launcher: Job 58 completed in 1034 seconds.
+Launcher: Task 12 running job 75 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-74.tar atm-AREI.h0.tar atm-AREL.h0.tar atm-AWNC.h0.tar atm-AWNI.h0.tar atm-bc_a1.h0.tar )
+atm-AREI.h0.tar
+Launcher: Job 53 completed in 1153 seconds.
+Launcher: Task 19 running job 76 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-75.tar atm-bc_a4.h0.tar atm-bc_c1.h0.tar atm-bc_c4.h0.tar atm-BROX.h0.tar atm-BROY.h0.tar )
+atm-bc_a4.h0.tar
+atm-dgnumwet1.h0.tar
+ocn-sp_Qp.h.tar
+ocn-diaz_Qp.h.tar
+atm-NUMRAI.h0.tar
+Launcher: Job 54 completed in 1194 seconds.
+Launcher: Task 3 running job 77 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-76.tar atm-CCN3.h0.tar atm-CLOUDFRAC_CLUBB.h0.tar atm-CLOUD.h0.tar atm-CLOX.h0.tar atm-CME.h0.tar )
+atm-CCN3.h0.tar
+ocn-diatFe.h.tar
+ocn-diazChl.h.tar
+atm-EXTINCTNIRdn.h0.tar
+ocn-PO4_diat_uptake.h.tar
+atm-RAINQM.h0.tar
+Launcher: Job 59 completed in 1017 seconds.
+Launcher: Task 16 running job 78 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-77.tar atm-CMFDQ.h0.tar atm-CO2_FFF.h0.tar atm-CO2.h0.tar atm-CO2_LND.h0.tar atm-CO2_OCN.h0.tar )
+atm-CMFDQ.h0.tar
+atm-ANRAIN.h0.tar
+ocn-spChl.h.tar
+atm-WPRCP_CLUBB.h0.tar
+atm-CLOY.h0.tar
+atm-bc_c1.h0.tar
+Launcher: Job 55 completed in 1294 seconds.
+Launcher: Task 7 running job 79 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-78.tar atm-CONCLD.h0.tar atm-DCQ.h0.tar atm-dgnumwet2.h0.tar atm-dgnumwet3.h0.tar atm-DH2O2CHM.h0.tar )
+atm-CONCLD.h0.tar
+ocn-photoNH4_diat.h.tar
+ocn-photoC_NO3_TOT.h.tar
+atm-AREL.h0.tar
+ocn-diatP.h.tar
+atm-CLOUDFRAC_CLUBB.h0.tar
+atm-pom_c4.h0.tar
+ocn-zooC.h.tar
+ocn-DOP_diat_uptake.h.tar
+atm-EXTINCTUVdn.h0.tar
+atm-SNOWQM.h0.tar
+ocn-PO4_diaz_uptake.h.tar
+atm-NUMSNO.h0.tar
+ocn-diazC.h.tar
+Launcher: Job 60 completed in 1026 seconds.
+Launcher: Task 8 running job 80 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-79.tar atm-DMS.h0.tar atm-Dso4_a1CHM.h0.tar atm-Dso4_a2CHM.h0.tar atm-Dso4_a3CHM.h0.tar atm-dst_a1.h0.tar )
+atm-DMS.h0.tar
+atm-EVAPQZM.h0.tar
+atm-CO2_FFF.h0.tar
+atm-DCQ.h0.tar
+ocn-spC.h.tar
+atm-ANSNOW.h0.tar
+Launcher: Job 62 completed in 987 seconds.
+Launcher: Task 11 running job 81 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-80.tar atm-dst_a2.h0.tar atm-dst_a3.h0.tar atm-dst_c1.h0.tar atm-dst_c2.h0.tar atm-dst_c3.h0.tar )
+atm-dst_a2.h0.tar
+atm-bc_c4.h0.tar
+atm-CLOUD.h0.tar
+ocn-photoC_TOT.h.tar
+Launcher: Job 61 completed in 1079 seconds.
+Launcher: Task 1 running job 82 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-81.tar atm-DTCOND.h0.tar atm-DTCORE.h0.tar atm-DTV.h0.tar atm-DTWR_H2O2.h0.tar atm-DTWR_H2SO4.h0.tar )
+atm-DTCOND.h0.tar
+ocn-photoNH4_diaz.h.tar
+atm-TOT_CLD_VISTAU.h0.tar
+Launcher: Job 64 completed in 955 seconds.
+Launcher: Task 4 running job 83 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-82.tar atm-DTWR_SO2.h0.tar atm-EVAPPREC.h0.tar atm-FICE.h0.tar atm-FREQI.h0.tar atm-FREQL.h0.tar )
+atm-DTWR_SO2.h0.tar
+ocn-photoNO3_diaz.h.tar
+Launcher: Job 67 completed in 944 seconds.
+Launcher: Task 5 running job 84 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-83.tar atm-FREQR.h0.tar atm-FREQS.h0.tar atm-H2O2.h0.tar atm-H2O.h0.tar atm-H2SO4.h0.tar )
+atm-FREQR.h0.tar
+atm-EXTxASYMdn.h0.tar
+atm-AWNC.h0.tar
+atm-QRLC.h0.tar
+Launcher: Job 63 completed in 1067 seconds.
+Launcher: Task 17 running job 85 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-84.tar atm-H2SO4M_C.h0.tar atm-HCL_GAS.h0.tar atm-HNO3_GAS.h0.tar atm-HNO3_NAT.h0.tar atm-HNO3_STS.h0.tar )
+atm-H2SO4M_C.h0.tar
+atm-Dso4_a1CHM.h0.tar
+Launcher: Job 70 completed in 928 seconds.
+Launcher: Task 9 running job 86 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-85.tar atm-HO2.h0.tar atm-ICIMR.h0.tar atm-ICWMR.h0.tar atm-IWC.h0.tar atm-jh2o2.h0.tar )
+atm-HO2.h0.tar
+Launcher: Job 68 completed in 983 seconds.
+Launcher: Task 10 running job 87 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-86.tar atm-MASS.h0.tar atm-ncl_a1.h0.tar atm-ncl_a2.h0.tar atm-ncl_a3.h0.tar atm-ncl_c1.h0.tar )
+atm-MASS.h0.tar
+atm-CO2.h0.tar
+atm-dgnumwet2.h0.tar
+atm-CLOX.h0.tar
+atm-AQRAIN.h0.tar
+Launcher: Job 65 completed in 1063 seconds.
+Launcher: Task 2 running job 88 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-87.tar atm-ncl_c2.h0.tar atm-ncl_c3.h0.tar atm-NITROP_PD.h0.tar atm-NO3.h0.tar atm-NOX.h0.tar )
+atm-ncl_c2.h0.tar
+atm-BROX.h0.tar
+atm-DTCORE.h0.tar
+atm-dst_a3.h0.tar
+Launcher: Job 66 completed in 1093 seconds.
+Launcher: Task 14 running job 89 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-88.tar atm-num_a2.h0.tar atm-num_a3.h0.tar atm-num_a4.h0.tar atm-num_c1.h0.tar atm-num_c2.h0.tar )
+atm-num_a2.h0.tar
+Launcher: Job 69 completed in 1017 seconds.
+Launcher: Task 18 running job 90 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-89.tar atm-num_c3.h0.tar atm-num_c4.h0.tar atm-O3.h0.tar atm-OH.h0.tar atm-OMEGA.h0.tar )
+atm-num_c3.h0.tar
+atm-ADRAIN.h0.tar
+atm-FREQS.h0.tar
+Launcher: Job 71 completed in 1019 seconds.
+Launcher: Task 13 running job 91 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-90.tar atm-OMEGAT.h0.tar atm-PDELDRY.h0.tar atm-pom_a1.h0.tar atm-pom_a4.h0.tar atm-pom_c1.h0.tar )
+atm-OMEGAT.h0.tar
+atm-AWNI.h0.tar
+atm-EVAPPREC.h0.tar
+Launcher: Job 72 completed in 996 seconds.
+Launcher: Task 0 running job 92 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-91.tar atm-PTEQ.h0.tar atm-PTTEND.h0.tar atm-Q.h0.tar atm-QRAIN.h0.tar atm-QRL.h0.tar )
+atm-PTEQ.h0.tar
+atm-HCL_GAS.h0.tar
+atm-Dso4_a2CHM.h0.tar
+atm-ICIMR.h0.tar
+atm-CO2_LND.h0.tar
+atm-CME.h0.tar
+atm-BROY.h0.tar
+atm-ncl_c3.h0.tar
+atm-num_a3.h0.tar
+Launcher: Job 73 completed in 893 seconds.
+Launcher: Task 15 running job 93 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-92.tar atm-QRS.h0.tar atm-QSNOW.h0.tar atm-QT.h0.tar atm-RAD_ICE.h0.tar atm-RAD_LNAT.h0.tar )
+atm-QRS.h0.tar
+atm-AQSNOW.h0.tar
+atm-ncl_a1.h0.tar
+atm-dst_c1.h0.tar
+atm-DTV.h0.tar
+atm-FICE.h0.tar
+atm-dgnumwet3.h0.tar
+atm-num_c4.h0.tar
+atm-PTTEND.h0.tar
+atm-HNO3_GAS.h0.tar
+atm-bc_a1.h0.tar
+atm-H2O2.h0.tar
+atm-PDELDRY.h0.tar
+atm-Dso4_a3CHM.h0.tar
+atm-ICWMR.h0.tar
+atm-ncl_a2.h0.tar
+atm-NITROP_PD.h0.tar
+Launcher: Job 77 completed in 889 seconds.
+Launcher: Task 3 running job 94 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-93.tar atm-RAD_SULFC.h0.tar atm-RCMTEND_CLUBB.h0.tar atm-REFF_AERO.h0.tar atm-RELHUM.h0.tar atm-RELVAR.h0.tar )
+atm-RAD_SULFC.h0.tar
+Launcher: Job 76 completed in 968 seconds.
+Launcher: Task 19 running job 95 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-94.tar atm-RIMTEND_CLUBB.h0.tar atm-RVMTEND_CLUBB.h0.tar atm-SAD_AERO.h0.tar atm-SAD_ICE.h0.tar atm-SAD_TROP.h0.tar )
+atm-RIMTEND_CLUBB.h0.tar
+Launcher: Job 74 completed in 1049 seconds.
+Launcher: Task 6 running job 96 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-95.tar atm-SL.h0.tar atm-SO2_CHML.h0.tar atm-SO2_CHMP.h0.tar atm-SO2.h0.tar atm-SO2_XFRC.h0.tar )
+atm-SL.h0.tar
+atm-CO2_OCN.h0.tar
+atm-dst_c2.h0.tar
+atm-QSNOW.h0.tar
+atm-O3.h0.tar
+atm-num_a4.h0.tar
+atm-HNO3_NAT.h0.tar
+Launcher: Job 75 completed in 1040 seconds.
+Launcher: Task 12 running job 97 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-96.tar atm-so4_a1_CHMP.h0.tar atm-so4_a2_CHMP.h0.tar atm-so4_a2.h0.tar atm-so4_a3.h0.tar atm-so4_c1.h0.tar )
+atm-so4_a1_CHMP.h0.tar
+atm-FREQI.h0.tar
+atm-DH2O2CHM.h0.tar
+atm-H2O.h0.tar
+atm-DTWR_H2O2.h0.tar
+atm-Q.h0.tar
+atm-pom_a1.h0.tar
+atm-IWC.h0.tar
+atm-dst_a1.h0.tar
+atm-NO3.h0.tar
+atm-SO2_CHML.h0.tar
+atm-ncl_a3.h0.tar
+atm-QT.h0.tar
+atm-dst_c3.h0.tar
+atm-so4_a2_CHMP.h0.tar
+atm-OH.h0.tar
+atm-RCMTEND_CLUBB.h0.tar
+atm-RVMTEND_CLUBB.h0.tar
+atm-HNO3_STS.h0.tar
+Launcher: Job 78 completed in 1072 seconds.
+Launcher: Task 16 running job 98 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-97.tar atm-so4_c2.h0.tar atm-so4_c3.h0.tar atm-soa_a1.h0.tar atm-soa_a2.h0.tar atm-soa_c1.h0.tar )
+atm-so4_c2.h0.tar
+atm-num_c1.h0.tar
+Launcher: Job 79 completed in 1060 seconds.
+Launcher: Task 7 running job 99 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-98.tar atm-soa_c2.h0.tar atm-SOAG.h0.tar atm-TAQ.h0.tar atm-TBRY.h0.tar atm-TCLY.h0.tar )
+atm-soa_c2.h0.tar
+atm-QRAIN.h0.tar
+atm-DTWR_H2SO4.h0.tar
+atm-FREQL.h0.tar
+atm-pom_a4.h0.tar
+atm-NOX.h0.tar
+atm-jh2o2.h0.tar
+atm-H2SO4.h0.tar
+Launcher: Job 80 completed in 995 seconds.
+Launcher: Task 8 running job 100 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-99.tar atm-T.h0.tar atm-TOTH.h0.tar atm-TTEND_TOT.h0.tar atm-TTGWORO.h0.tar atm-U.h0.tar )
+atm-T.h0.tar
+atm-SO2_CHMP.h0.tar
+atm-ncl_c1.h0.tar
+Launcher: Job 81 completed in 963 seconds.
+Launcher: Task 11 running job 101 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-100.tar atm-UTEND_CLUBB.h0.tar atm-UTGWORO.h0.tar atm-UU.h0.tar atm-VD01.h0.tar atm-V.h0.tar )
+atm-UTEND_CLUBB.h0.tar
+atm-RAD_ICE.h0.tar
+Launcher: Job 85 completed in 856 seconds.
+Launcher: Task 17 running job 102 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-101.tar atm-VQ.h0.tar atm-VTEND_CLUBB.h0.tar atm-VT.h0.tar atm-VU.h0.tar atm-VV.h0.tar )
+atm-VQ.h0.tar
+atm-OMEGA.h0.tar
+atm-REFF_AERO.h0.tar
+atm-SOAG.h0.tar
+atm-so4_c3.h0.tar
+atm-so4_a2.h0.tar
+atm-SAD_AERO.h0.tar
+atm-num_c2.h0.tar
+Launcher: Job 82 completed in 1026 seconds.
+Launcher: Task 1 running job 103 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-102.tar atm-VZ.h0.tar atm-WPTHVP_CLUBB.h0.tar atm-WSUB.h0.tar atm-Z3.h0.tar atm-ZMDQ.h0.tar )
+atm-VZ.h0.tar
+atm-pom_c1.h0.tar
+atm-QRL.h0.tar
+Launcher: Job 83 completed in 1041 seconds.
+Launcher: Task 4 running job 104 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-103.tar atm-ZMDT.h0.tar atm-ZMMTT.h0.tar atm-ZMMU.h0.tar atm-BURDENPOMdn.h1.tar atm-FCTI.h1.tar )
+atm-ZMDT.h0.tar
+Launcher: Job 88 completed in 911 seconds.
+Launcher: Task 2 running job 105 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-104.tar atm-FLDSC.h1.tar atm-ACTNI.h1.tar atm-ACTNL.h1.tar atm-ACTREI.h1.tar atm-ACTREL.h1.tar )
+atm-FLDSC.h1.tar
+Launcher: Job 84 completed in 1025 seconds.
+Launcher: Task 5 running job 106 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-105.tar atm-AODVIS.h1.tar atm-BURDENBCdn.h1.tar atm-BURDENDUSTdn.h1.tar atm-BURDENSEASALTdn.h1.tar atm-BURDENSO4dn.h1.tar )
+atm-AODVIS.h1.tar
+atm-TOTH.h0.tar
+Launcher: Job 87 completed in 955 seconds.
+Launcher: Task 10 running job 107 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-106.tar atm-BURDENSO4.h1.tar atm-BURDENSOAdn.h1.tar atm-CAPE.h1.tar atm-CDNUMC.h1.tar atm-CLDTOT.h1.tar )
+atm-BURDENSO4.h1.tar
+Launcher: Job 86 completed in 972 seconds.
+Launcher: Task 9 running job 108 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-107.tar atm-FCTL.h1.tar atm-FLDS.h1.tar atm-FLNR.h1.tar atm-FLNSC.h1.tar atm-FLNS.h1.tar )
+atm-FCTL.h1.tar
+atm-VTEND_CLUBB.h0.tar
+atm-UTGWORO.h0.tar
+atm-RELHUM.h0.tar
+atm-SO2.h0.tar
+Launcher: Job 90 completed in 956 seconds.
+Launcher: Task 18 running job 109 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-108.tar atm-FLNTC.h1.tar atm-FLNT.h1.tar atm-FLUTC.h1.tar atm-FLUT.h1.tar atm-FSDS.h1.tar )
+atm-FLNTC.h1.tar
+atm-SAD_ICE.h0.tar
+atm-soa_a1.h0.tar
+atm-so4_a3.h0.tar
+Launcher: Job 89 completed in 1007 seconds.
+Launcher: Task 14 running job 110 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-109.tar atm-FSDSC.h1.tar atm-FSNR.h1.tar atm-FSNS.h1.tar atm-FSNSC.h1.tar atm-FSNT.h1.tar )
+atm-FSDSC.h1.tar
+atm-TAQ.h0.tar
+atm-RAD_LNAT.h0.tar
+atm-WPTHVP_CLUBB.h0.tar
+Launcher: Job 91 completed in 990 seconds.
+Launcher: Task 13 running job 111 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-110.tar atm-FSNTOAC.h1.tar atm-LHFLX.h1.tar atm-LWCF.h1.tar atm-MSKtem.h1.tar atm-OMEGA500.h1.tar )
+atm-FSNTOAC.h1.tar
+Launcher: Job 92 completed in 973 seconds.
+Launcher: Task 0 running job 112 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-111.tar atm-PBLH.h1.tar atm-PHIS.h1.tar atm-PRECC.h1.tar atm-PRECL.h1.tar atm-PRECSC.h1.tar )
+atm-PBLH.h1.tar
+atm-ACTNI.h1.tar
+atm-TTEND_TOT.h0.tar
+atm-BURDENBCdn.h1.tar
+atm-ZMMTT.h0.tar
+atm-BURDENSOAdn.h1.tar
+atm-FLDS.h1.tar
+atm-RELVAR.h0.tar
+atm-FLNT.h1.tar
+atm-VT.h0.tar
+atm-SO2_XFRC.h0.tar
+atm-UU.h0.tar
+atm-soa_a2.h0.tar
+atm-SAD_TROP.h0.tar
+atm-TBRY.h0.tar
+Launcher: Job 93 completed in 990 seconds.
+Launcher: Task 15 running job 113 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-112.tar atm-PRECSL.h1.tar atm-PRECT.h1.tar atm-PRECTMX.h1.tar atm-PS.h1.tar atm-PSL.h1.tar )
+atm-PRECSL.h1.tar
+atm-FSNR.h1.tar
+atm-so4_c1.h0.tar
+atm-ACTNL.h1.tar
+atm-PHIS.h1.tar
+atm-LHFLX.h1.tar
+atm-TTGWORO.h0.tar
+atm-BURDENDUSTdn.h1.tar
+atm-FLNR.h1.tar
+atm-WSUB.h0.tar
+atm-ZMMU.h0.tar
+Launcher: Job 96 completed in 928 seconds.
+Launcher: Task 6 running job 114 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-113.tar atm-Q200.h1.tar atm-Q500.h1.tar atm-Q850.h1.tar atm-QREFHT.h1.tar atm-RHREFHT.h1.tar )
+atm-Q200.h1.tar
+atm-CAPE.h1.tar
+atm-FLUTC.h1.tar
+atm-FSNS.h1.tar
+atm-VD01.h0.tar
+atm-VU.h0.tar
+Launcher: Job 97 completed in 925 seconds.
+Launcher: Task 12 running job 115 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-114.tar atm-SHFLX.h1.tar atm-SOLIN.h1.tar atm-SOLLD.h1.tar atm-SOLSD.h1.tar atm-SWCF.h1.tar )
+atm-SHFLX.h1.tar
+Launcher: Job 95 completed in 993 seconds.
+Launcher: Task 19 running job 116 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-115.tar atm-T010.h1.tar atm-T200.h1.tar atm-T500.h1.tar atm-T850.h1.tar atm-TAUBLJX.h1.tar )
+atm-T010.h1.tar
+atm-PRECT.h1.tar
+atm-soa_c1.h0.tar
+Launcher: Job 94 completed in 1027 seconds.
+Launcher: Task 3 running job 117 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-116.tar atm-TAUBLJY.h1.tar atm-TAUGWX.h1.tar atm-TAUGWY.h1.tar atm-TAUX.h1.tar atm-TAUY.h1.tar )
+atm-TAUBLJY.h1.tar
+atm-PRECC.h1.tar
+atm-ACTREI.h1.tar
+atm-TCLY.h0.tar
+atm-LWCF.h1.tar
+atm-U.h0.tar
+atm-FLNSC.h1.tar
+atm-Q500.h1.tar
+atm-BURDENSEASALTdn.h1.tar
+atm-BURDENPOMdn.h1.tar
+atm-CDNUMC.h1.tar
+atm-T200.h1.tar
+atm-PRECTMX.h1.tar
+atm-V.h0.tar
+atm-FLUT.h1.tar
+atm-SOLIN.h1.tar
+atm-FSNSC.h1.tar
+atm-Z3.h0.tar
+atm-VV.h0.tar
+atm-TAUGWX.h1.tar
+atm-PRECL.h1.tar
+Launcher: Job 99 completed in 964 seconds.
+Launcher: Task 7 running job 118 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-117.tar atm-TGCLDIWP.h1.tar atm-TGCLDLWP.h1.tar atm-TMQ.h1.tar atm-TREFHT.h1.tar atm-TREFHTMN.h1.tar )
+atm-TGCLDIWP.h1.tar
+Launcher: Job 100 completed in 886 seconds.
+Launcher: Task 8 running job 119 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-118.tar atm-TREFHTMX.h1.tar atm-TS.h1.tar atm-TSMN.h1.tar atm-TSMX.h1.tar atm-U010.h1.tar )
+atm-TREFHTMX.h1.tar
+atm-MSKtem.h1.tar
+atm-ACTREL.h1.tar
+Launcher: Job 98 completed in 1001 seconds.
+Launcher: Task 16 running job 120 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-119.tar atm-U10.h1.tar atm-U200.h1.tar atm-U500.h1.tar atm-U850.h1.tar atm-V200.h1.tar )
+atm-U10.h1.tar
+atm-BURDENSO4dn.h1.tar
+atm-Q850.h1.tar
+atm-FLNS.h1.tar
+atm-CLDTOT.h1.tar
+atm-FCTI.h1.tar
+atm-PS.h1.tar
+atm-FSDS.h1.tar
+Launcher: Job 101 completed in 950 seconds.
+Launcher: Task 11 running job 121 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-120.tar atm-V500.h1.tar atm-V850.h1.tar atm-WSPDSRFAV.h1.tar atm-WSPDSRFMX.h1.tar atm-Z200.h1.tar )
+atm-V500.h1.tar
+atm-SOLLD.h1.tar
+atm-TAUGWY.h1.tar
+atm-TS.h1.tar
+Launcher: Job 105 completed in 868 seconds.
+Launcher: Task 2 running job 122 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-121.tar atm-Z500.h1.tar atm-Z850.h1.tar atm-CLDICE.h0.tar atm-NOY.h0.tar atm-num_a1.h0.tar )
+atm-Z500.h1.tar
+atm-ZMDQ.h0.tar
+atm-T500.h1.tar
+atm-FSNT.h1.tar
+atm-TGCLDLWP.h1.tar
+Launcher: Job 106 completed in 890 seconds.
+Launcher: Task 5 running job 123 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-122.tar lnd-ALT.h5.tar lnd-AR.h5.tar lnd-FAREA_BURNED.h5.tar lnd-FGR12.h5.tar lnd-FSA.h5.tar )
+lnd-ALT.h5.tar
+Launcher: Job 102 completed in 1028 seconds.
+Launcher: Task 17 running job 124 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-123.tar lnd-FSDS.h5.tar lnd-FSDSND.h5.tar lnd-FSDSNI.h5.tar lnd-FSDSVD.h5.tar lnd-FSDSVI.h5.tar )
+lnd-FSDS.h5.tar
+atm-OMEGA500.h1.tar
+atm-U200.h1.tar
+atm-PRECSC.h1.tar
+Launcher: Job 104 completed in 940 seconds.
+Launcher: Task 4 running job 125 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-124.tar lnd-FSNO.h5.tar lnd-GPP.h5.tar lnd-H2OCAN.h5.tar lnd-H2OSFC.h5.tar lnd-H2OSNO.h5.tar )
+lnd-FSNO.h5.tar
+atm-QREFHT.h1.tar
+Launcher: Job 108 completed in 914 seconds.
+Launcher: Task 9 running job 126 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-125.tar lnd-HR.h5.tar lnd-JCONVECT.h5.tar lnd-LAKEICETHICK.h5.tar lnd-NBP.h5.tar lnd-NEP.h5.tar )
+lnd-HR.h5.tar
+atm-PSL.h1.tar
+Launcher: Job 109 completed in 891 seconds.
+Launcher: Task 18 running job 127 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-126.tar lnd-NFIRE.h5.tar lnd-NPP.h5.tar lnd-QDRAI.h5.tar lnd-QDRAI_PERCH.h5.tar lnd-QFLX_SNOW_DRAIN.h5.tar )
+lnd-NFIRE.h5.tar
+Launcher: Job 107 completed in 952 seconds.
+Launcher: Task 10 running job 128 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-127.tar lnd-QFLX_SUB_SNOW.h5.tar lnd-QINTR.h5.tar lnd-QOVER.h5.tar lnd-QRUNOFF.h5.tar lnd-QSNOEVAP.h5.tar )
+lnd-QFLX_SUB_SNOW.h5.tar
+atm-SOLSD.h1.tar
+atm-TAUX.h1.tar
+atm-V850.h1.tar
+atm-T850.h1.tar
+atm-Z850.h1.tar
+atm-TMQ.h1.tar
+Launcher: Job 110 completed in 932 seconds.
+Launcher: Task 14 running job 129 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-128.tar lnd-QSNOFRZ.h5.tar lnd-QSOIL.h5.tar lnd-QVEGE.h5.tar lnd-QVEGT.h5.tar lnd-RAIN.h5.tar )
+lnd-QSNOFRZ.h5.tar
+atm-TSMN.h1.tar
+lnd-AR.h5.tar
+Launcher: Job 112 completed in 919 seconds.
+Launcher: Task 0 running job 130 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-129.tar lnd-SNOBCMSL.h5.tar lnd-SNOCAN.h5.tar lnd-SNOFSRND.h5.tar lnd-SNOFSRNI.h5.tar lnd-SNOFSRVD.h5.tar )
+lnd-SNOBCMSL.h5.tar
+atm-RHREFHT.h1.tar
+lnd-FSDSND.h5.tar
+lnd-JCONVECT.h5.tar
+Launcher: Job 111 completed in 962 seconds.
+Launcher: Task 13 running job 131 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-130.tar lnd-SNOFSRVI.h5.tar lnd-SNOTXMASS.h5.tar lnd-SNOWDP.h5.tar lnd-SNOW.h5.tar lnd-SNOWICE.h5.tar )
+lnd-SNOFSRVI.h5.tar
+Launcher: Job 103 completed in 1170 seconds.
+Launcher: Task 1 running job 132 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-131.tar lnd-SNOWLIQ.h5.tar lnd-SOILWATER_10CM.h5.tar lnd-TAUX.h5.tar lnd-TAUY.h5.tar lnd-TG.h5.tar )
+lnd-SNOWLIQ.h5.tar
+Launcher: Job 113 completed in 842 seconds.
+Launcher: Task 15 running job 133 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-132.tar lnd-TLAI.h5.tar lnd-TOTSOILICE.h5.tar lnd-TOTSOILLIQ.h5.tar lnd-TSKIN.h5.tar lnd-TV.h5.tar )
+lnd-TLAI.h5.tar
+lnd-GPP.h5.tar
+atm-U500.h1.tar
+lnd-NPP.h5.tar
+atm-SWCF.h1.tar
+lnd-QINTR.h5.tar
+atm-TAUBLJX.h1.tar
+atm-CLDICE.h0.tar
+atm-TREFHT.h1.tar
+atm-TSMX.h1.tar
+Launcher: Job 114 completed in 842 seconds.
+Launcher: Task 6 running job 134 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-133.tar lnd-TWS.h5.tar lnd-SMP.h0.tar lnd-TSOI.h0.tar lnd-TSOI_ICE.h0.tar lnd-H2OSOI.h0.tar lnd-HR_vr.h0.tar )
+lnd-TWS.h5.tar
+atm-TAUY.h1.tar
+atm-WSPDSRFAV.h1.tar
+lnd-SNOCAN.h5.tar
+lnd-SNOTXMASS.h5.tar
+lnd-FAREA_BURNED.h5.tar
+lnd-LAKEICETHICK.h5.tar
+lnd-FSDSNI.h5.tar
+lnd-H2OCAN.h5.tar
+lnd-QSOIL.h5.tar
+lnd-SOILWATER_10CM.h5.tar
+atm-U850.h1.tar
+lnd-QDRAI.h5.tar
+lnd-TOTSOILICE.h5.tar
+Launcher: Job 115 completed in 872 seconds.
+Launcher: Task 12 running job 135 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-134.tar atm-SAD_LNAT.h0.tar atm-so4_a1.h0.tar atm-STEND_CLUBB.h0.tar atm-Uzm.h0.tar atm-THzm.h0.tar atm-UVzm.h0.tar atm-VTHzm.h0.tar atm-Vzm.h0.tar atm-WTHzm.h0.tar atm-Wzm.h0.tar atm-SSAVIS.h0.tar atm-SWCF.h0.tar atm-ACTREL.h0.tar atm-AEROD_v.h0.tar atm-AODABSdn.h0.tar atm-AODBCdn.h0.tar atm-AODdnDUST1.h0.tar atm-AODdnDUST2.h0.tar atm-AODdnDUST3.h0.tar atm-AODdnMODE1.h0.tar atm-AODdnMODE2.h0.tar atm-AODdnMODE3.h0.tar atm-AODDUST1.h0.tar atm-AODDUST2.h0.tar atm-AODDUST3.h0.tar atm-AODDUST.h0.tar atm-AODNIRstdn.h0.tar atm-AODPOMdn.h0.tar atm-AODSO4dn.h0.tar atm-AODSOAdn.h0.tar atm-AODSSdn.h0.tar atm-AODUVdn.h0.tar atm-AODUVstdn.h0.tar atm-AODVISdn.h0.tar atm-AODVIS.h0.tar atm-AODVISstdn.h0.tar atm-AQ_SO2.h0.tar atm-AREA.h0.tar atm-bc_a1DDF.h0.tar atm-bc_a1SFWET.h0.tar atm-bc_a1_SRF.h0.tar atm-bc_a4_CLXF.h0.tar atm-bc_a4_CMXF.h0.tar atm-bc_a4DDF.h0.tar atm-bc_a4SFWET.h0.tar atm-bc_a4_SRF.h0.tar atm-bc_c1SFWET.h0.tar atm-bc_c4DDF.h0.tar atm-BURDENBCdn.h0.tar atm-BURDENDUSTdn.h0.tar atm-BURDENPOMdn.h0.tar atm-BURDENSEASALTdn.h0.tar atm-BURDENSO4dn.h0.tar atm-BURDENSOAdn.h0.tar atm-CAPE.h0.tar atm-CDNUMC.h0.tar atm-CLDHGH.h0.tar atm-CLDLOW.h0.tar atm-CLDMED.h0.tar atm-CLDTOT.h0.tar )
+atm-SAD_LNAT.h0.tar
+lnd-QOVER.h5.tar
+atm-NOY.h0.tar
+Launcher: Job 116 completed in 917 seconds.
+Launcher: Task 19 running job 136 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-135.tar lnd-O_SCALAR.h0.tar lnd-SOILICE.h0.tar lnd-SOILLIQ.h0.tar lnd-T_SCALAR.h0.tar lnd-W_SCALAR.h0.tar lnd-AGNPP.h1.tar lnd-AR.h1.tar lnd-BTRANMN.h1.tar )
+lnd-O_SCALAR.h0.tar
+lnd-SMP.h0.tar
+atm-TREFHTMN.h1.tar
+atm-U010.h1.tar
+atm-WSPDSRFMX.h1.tar
+lnd-SNOWDP.h5.tar
+lnd-FGR12.h5.tar
+atm-V200.h1.tar
+Launcher: Job 117 completed in 985 seconds.
+Launcher: Task 3 running job 137 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-136.tar lnd-FCEV.h1.tar lnd-FCTR.h1.tar lnd-FGEV.h1.tar lnd-FIRA.h1.tar lnd-FIRE.h1.tar lnd-FSA.h1.tar lnd-FSH.h1.tar lnd-FSR.h1.tar lnd-GPP.h1.tar )
+lnd-FCEV.h1.tar
+lnd-NBP.h5.tar
+lnd-SNOFSRND.h5.tar
+lnd-H2OSFC.h5.tar
+lnd-TAUX.h5.tar
+lnd-QDRAI_PERCH.h5.tar
+lnd-QVEGE.h5.tar
+lnd-TOTSOILLIQ.h5.tar
+lnd-FSDSVD.h5.tar
+lnd-SOILICE.h0.tar
+atm-so4_a1.h0.tar
+atm-num_a1.h0.tar
+lnd-TSOI.h0.tar
+lnd-QRUNOFF.h5.tar
+lnd-FCTR.h1.tar
+atm-Z200.h1.tar
+Launcher: Job 118 completed in 896 seconds.
+Launcher: Task 7 running job 138 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-137.tar lnd-GRAINC_TO_FOOD.h1.tar lnd-GSSHALN.h1.tar lnd-GSSUNLN.h1.tar lnd-HTOP.h1.tar lnd-NFERTILIZATION.h1.tar lnd-NPP.h1.tar lnd-NPP_NUPTAKE.h1.tar lnd-QIRRIG.h1.tar lnd-QVEGT.h1.tar )
+lnd-GRAINC_TO_FOOD.h1.tar
+lnd-SOILLIQ.h0.tar
+lnd-NEP.h5.tar
+lnd-QVEGT.h5.tar
+lnd-SNOW.h5.tar
+Launcher: Job 119 completed in 930 seconds.
+Launcher: Task 8 running job 139 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-138.tar lnd-TLAI.h1.tar lnd-TOTVEGC.h1.tar lnd-TREFMNAV.h1.tar lnd-TREFMXAV.h1.tar lnd-TSA.h1.tar lnd-TSKIN.h1.tar lnd-Vcmx25Z.h1.tar lnd-HR.h1.tar lnd-TLAKE.h0.tar lnd-PCT_LANDUNIT.h0.tar lnd-PCT_CFT.h3.tar )
+lnd-TLAI.h1.tar
+lnd-FSA.h5.tar
+Launcher: Job 120 completed in 926 seconds.
+Launcher: Task 16 running job 140 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-139.tar ocn-pCO2SURF_2.h.tar ocn-POC_FLUX_100m_2.h.tar ocn-MOC.h.tar ocn-ABIO_ALK_SURF.h.tar ocn-ABIO_CO2STAR.h.tar ocn-ABIO_D14Catm.h.tar ocn-ABIO_DCO2STAR.h.tar ocn-ABIO_DpCO2.h.tar ocn-ABIO_pCO2.h.tar ocn-ABIO_pCO2SURF.h.tar ocn-ABIO_PH_SURF.h.tar ocn-ADVS.h.tar ocn-ADVS_ISOP.h.tar ocn-ADVS_SUBM.h.tar ocn-ADVT.h.tar ocn-ADVT_ISOP.h.tar ocn-ADVT_SUBM.h.tar ocn-ALK_ALT_CO2_RIV_FLUX.h.tar ocn-ALK_RIV_FLUX.h.tar ocn-ATM_ALT_CO2.h.tar ocn-ATM_BLACK_CARBON_FLUX_CPL.h.tar ocn-ATM_CO2.h.tar ocn-ATM_COARSE_DUST_FLUX_CPL.h.tar ocn-ATM_FINE_DUST_FLUX_CPL.h.tar ocn-BSF.h.tar ocn-bsiToSed.h.tar ocn-CaCO3_FLUX_100m.h.tar ocn-CaCO3_form_zint_100m.h.tar ocn-CaCO3_form_zint.h.tar ocn-CaCO3_PROD_zint_100m.h.tar ocn-CaCO3_PROD_zint.h.tar ocn-CaCO3_REMIN_zint_100m.h.tar ocn-CaCO3_REMIN_zint.h.tar ocn-calcToSed_ALT_CO2.h.tar ocn-calcToSed.h.tar ocn-CO2STAR_ALT_CO2.h.tar ocn-CO2STAR.h.tar ocn-DCO2STAR_ALT_CO2.h.tar ocn-DCO2STAR.h.tar ocn-DIA_DEPTH.h.tar ocn-diat_agg_zint_100m.h.tar ocn-diat_agg_zint.h.tar ocn-diat_Fe_lim_Cweight_avg_100m.h.tar ocn-diat_Fe_lim_surf.h.tar ocn-diat_light_lim_Cweight_avg_100m.h.tar ocn-diat_light_lim_surf.h.tar ocn-diat_loss_doc_zint_100m.h.tar ocn-diat_loss_doc_zint.h.tar ocn-diat_loss_poc_zint_100m.h.tar ocn-diat_loss_poc_zint.h.tar ocn-diat_loss_zint_100m.h.tar )
+ocn-pCO2SURF_2.h.tar
+lnd-H2OSNO.h5.tar
+lnd-QFLX_SNOW_DRAIN.h5.tar
+lnd-TAUY.h5.tar
+lnd-FGEV.h1.tar
+lnd-TSOI_ICE.h0.tar
+Launcher: Job 122 completed in 826 seconds.
+Launcher: Task 2 running job 141 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-140.tar ice-fswintn.h.tar ice-fswsfcn.h.tar ice-fswthrun.h.tar ice-siitdsnthick.h.tar ice-siitdthick.h.tar ice-vsnon.h.tar ice-aicen.h.tar ice-siitdconc.h.tar ice-vicen.h.tar ice-aice.h.tar ice-albsni.h.tar ice-alidf_ai.h.tar ice-alidr_ai.h.tar ice-alvdf_ai.h.tar ice-alvdr_ai.h.tar ice-apeff_ai.h.tar ice-apond_ai.h.tar ice-ardg.h.tar ice-congel.h.tar ice-dagedtd.h.tar ice-dagedtt.h.tar ice-daidtd.h.tar ice-daidtt.h.tar ice-divu.h.tar )
+ice-fswintn.h.tar
+atm-STEND_CLUBB.h0.tar
+lnd-SNOFSRNI.h5.tar
+lnd-FSDSVI.h5.tar
+lnd-TSKIN.h5.tar
+lnd-GSSHALN.h1.tar
+ocn-POC_FLUX_100m_2.h.tar
+lnd-TOTVEGC.h1.tar
+lnd-T_SCALAR.h0.tar
+lnd-FIRA.h1.tar
+Launcher: Job 121 completed in 953 seconds.
+Launcher: Task 11 running job 142 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-141.tar rof-DIRECT_DISCHARGE_TO_OCEAN_ICE.h0.tar rof-DIRECT_DISCHARGE_TO_OCEAN_LIQ.h0.tar rof-RIVER_DISCHARGE_OVER_LAND_ICE.h0.tar rof-RIVER_DISCHARGE_OVER_LAND_LIQ.h0.tar rof-TOTAL_DISCHARGE_TO_OCEAN_ICE.h0.tar rof-TOTAL_DISCHARGE_TO_OCEAN_LIQ.h0.tar )
+rof-DIRECT_DISCHARGE_TO_OCEAN_ICE.h0.tar
+ice-fswsfcn.h.tar
+lnd-QSNOEVAP.h5.tar
+Launcher: Job 126 completed in 842 seconds.
+Launcher: Task 9 running job 143 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-142.tar lnd-VEGWP.h0.tar lnd-CWDN_vr.h3.tar lnd-LITR1N_vr.h3.tar lnd-LITR2N_vr.h3.tar lnd-LITR3N_vr.h3.tar lnd-SOILN_vr.h3.tar lnd-CWDC_vr.h3.tar lnd-LITR1C_vr.h3.tar lnd-LITR2C_vr.h3.tar lnd-LITR3C_vr.h3.tar lnd-SOIL1C_vr.h3.tar lnd-SOIL2C_vr.h3.tar lnd-SOIL3C_vr.h3.tar lnd-SOILC_vr.h3.tar lnd-PCT_NAT_PFT.h3.tar lnd-DWT_CONV_CFLUX_PATCH.h2.tar lnd-DWT_WOOD_PRODUCTC_GAIN_PATCH.h2.tar lnd-AR.h2.tar lnd-COL_FIRE_CLOSS.h2.tar lnd-DWT_SLASH_CFLUX.h2.tar lnd-EFLX_GRND_LAKE.h2.tar lnd-EFLX_LH_TOT.h2.tar lnd-FGR.h2.tar lnd-FIRA.h2.tar lnd-FIRE.h2.tar lnd-FLDS.h2.tar lnd-FROOTC.h2.tar lnd-FSA.h2.tar lnd-FSH.h2.tar lnd-FSM.h2.tar lnd-FSR.h2.tar lnd-GPP.h2.tar lnd-GRAINC_TO_FOOD.h2.tar lnd-H2OSNO.h2.tar lnd-HIA.h2.tar lnd-HR.h2.tar lnd-HTOP.h2.tar lnd-HUMIDEX.h2.tar lnd-NPP.h2.tar lnd-Q2M.h2.tar lnd-QIRRIG.h2.tar lnd-QRUNOFF.h2.tar lnd-RH2M.h2.tar lnd-SABG.h2.tar lnd-SLASH_HARVESTC.h2.tar lnd-SNOWDP.h2.tar lnd-SoilAlpha_U.h2.tar lnd-SOILWATER_10CM.h2.tar lnd-SWBGT.h2.tar lnd-TBUILD.h2.tar lnd-TG.h2.tar lnd-TLAI.h2.tar lnd-TOTSOILICE.h2.tar lnd-TOTSOILLIQ.h2.tar lnd-TREFMNAV.h2.tar lnd-TREFMXAV.h2.tar lnd-TSA.h2.tar lnd-TSKIN.h2.tar lnd-TSOI_10CM.h2.tar lnd-U10.h2.tar lnd-URBAN_AC.h2.tar lnd-URBAN_HEAT.h2.tar lnd-WASTEHEAT.h2.tar lnd-WOOD_HARVESTC.h2.tar lnd-ACTUAL_IMMOB.h0.tar lnd-ALT.h0.tar lnd-ALTMAX.h0.tar lnd-AR.h0.tar lnd-ATM_TOPO.h0.tar lnd-BAF_CROP.h0.tar lnd-BAF_PEATF.h0.tar lnd-BCDEP.h0.tar lnd-BTRAN2.h0.tar lnd-BTRANMN.h0.tar lnd-CH4PROD.h0.tar lnd-CH4_SURF_AERE_SAT.h0.tar lnd-CH4_SURF_AERE_UNSAT.h0.tar lnd-CH4_SURF_DIFF_SAT.h0.tar lnd-CH4_SURF_DIFF_UNSAT.h0.tar lnd-CH4_SURF_EBUL_SAT.h0.tar lnd-CH4_SURF_EBUL_UNSAT.h0.tar lnd-COL_FIRE_CLOSS.h0.tar lnd-COL_FIRE_NLOSS.h0.tar lnd-COST_NACTIVE.h0.tar lnd-COST_NFIX.h0.tar lnd-COST_NRETRANS.h0.tar lnd-CPHASE.h0.tar lnd-CPOOL.h0.tar lnd-CROPPROD1C.h0.tar lnd-CROPPROD1C_LOSS.h0.tar lnd-CROPPROD1N.h0.tar lnd-CROPPROD1N_LOSS.h0.tar lnd-CROPSEEDC_DEFICIT.h0.tar lnd-CWDC_LOSS.h0.tar lnd-DEADCROOTC.h0.tar lnd-DEADCROOTN.h0.tar lnd-DENIT.h0.tar lnd-DISPVEGC.h0.tar lnd-DISPVEGN.h0.tar lnd-DSL.h0.tar lnd-DSTDEP.h0.tar lnd-DSTFLXT.h0.tar lnd-DWT_CONV_CFLUX_DRIBBLED.h0.tar lnd-DWT_CONV_CFLUX.h0.tar lnd-DWT_CONV_NFLUX.h0.tar lnd-DWT_CROPPROD1C_GAIN.h0.tar lnd-DWT_CROPPROD1N_GAIN.h0.tar lnd-DWT_SEEDN_TO_DEADSTEM.h0.tar lnd-DWT_SEEDN_TO_LEAF.h0.tar lnd-DWT_SLASH_CFLUX.h0.tar lnd-DWT_WOODPRODC_GAIN.h0.tar lnd-DWT_WOODPRODN_GAIN.h0.tar lnd-DWT_WOOD_PRODUCTC_GAIN_PATCH.h0.tar lnd-EFLXBUILD.h0.tar lnd-EFLX_DYNBAL.h0.tar lnd-EFLX_GRND_LAKE.h0.tar lnd-EFLX_LH_TOT.h0.tar )
+lnd-VEGWP.h0.tar
+lnd-GSSUNLN.h1.tar
+lnd-RAIN.h5.tar
+ocn-MOC.h.tar
+lnd-CWDN_vr.h3.tar
+lnd-TREFMNAV.h1.tar
+rof-DIRECT_DISCHARGE_TO_OCEAN_LIQ.h0.tar
+Launcher: Job 123 completed in 937 seconds.
+Launcher: Task 5 running job 144 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-143.tar ice-dvidtd.h.tar ice-dvidtt.h.tar ice-evap.h.tar ice-fhocn.h.tar ice-flat_ai.h.tar ice-flat.h.tar ice-flwdn.h.tar ice-flwup.h.tar ice-frazil.h.tar ice-fresh.h.tar ice-fsalt.h.tar ice-fsens_ai.h.tar ice-fsens.h.tar ice-fswabs.h.tar ice-fswdn.h.tar ice-fswthru.h.tar ice-fswup.h.tar ice-hi.h.tar ice-hs.h.tar ice-ice_present.h.tar ice-meltb.h.tar ice-meltl.h.tar ice-melts.h.tar ice-meltt.h.tar ice-rain.h.tar ice-shear.h.tar ice-siage.h.tar ice-sialb.h.tar ice-sicompstren.h.tar ice-sidconcdyn.h.tar ice-sidconcth.h.tar ice-sidmassdyn.h.tar ice-sidmassevapsubl.h.tar ice-sidmassgrowthbot.h.tar ice-sidmassgrowthwat.h.tar ice-sidmasslat.h.tar ice-sidmassmeltbot.h.tar ice-sidmassmelttop.h.tar ice-sidmasssi.h.tar ice-sidmassth.h.tar ice-sidmasstranx.h.tar ice-sidmasstrany.h.tar ice-sidragtop.h.tar ice-sifb.h.tar ice-siflcondbot.h.tar ice-siflcondtop.h.tar ice-siflfwbot.h.tar ice-siflfwdrain.h.tar ice-sifllatstop.h.tar ice-sifllwdtop.h.tar ice-sifllwutop.h.tar ice-siflsaltbot.h.tar ice-siflsenstop.h.tar ice-siflsensupbot.h.tar ice-siflswdbot.h.tar ice-siflswdtop.h.tar ice-siflswutop.h.tar )
+ice-dvidtd.h.tar
+ocn-ABIO_ALK_SURF.h.tar
+lnd-LITR1N_vr.h3.tar
+lnd-H2OSOI.h0.tar
+ice-dvidtt.h.tar
+lnd-LITR2N_vr.h3.tar
+lnd-SNOWICE.h5.tar
+lnd-TG.h5.tar
+Launcher: Job 125 completed in 909 seconds.
+Launcher: Task 4 running job 145 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-144.tar ice-siforcecoriolx.h.tar ice-siforcecorioly.h.tar ice-siforceintstrx.h.tar ice-siforceintstry.h.tar ice-siforcetiltx.h.tar ice-siforcetilty.h.tar ice-sig1.h.tar ice-sig2.h.tar ice-sihc.h.tar ice-sipr.h.tar ice-sirdgthick.h.tar ice-sisnhc.h.tar ice-sisnthick.h.tar ice-sispeed.h.tar ice-sistreave.h.tar ice-sistremax.h.tar ice-sistrxdtop.h.tar ice-sistrxubot.h.tar ice-sistrydtop.h.tar ice-sistryubot.h.tar ice-sitempbot.h.tar ice-sitempsnic.h.tar ice-sitemptop.h.tar ice-sithick.h.tar ice-siu.h.tar ice-siv.h.tar ice-sndmassmelt.h.tar ice-sndmasssnf.h.tar ice-sndmassubl.h.tar ice-snoice.h.tar ice-snowfrac.h.tar ice-snow.h.tar ice-strairx.h.tar ice-strairy.h.tar ice-strcorx.h.tar ice-strcory.h.tar ice-strength.h.tar ice-strintx.h.tar ice-strinty.h.tar ice-strocnx.h.tar ice-strocny.h.tar ice-strtltx.h.tar ice-strtlty.h.tar ice-Tsfc.h.tar ice-uatm.h.tar ice-uvel.h.tar ice-vatm.h.tar ice-vvel.h.tar )
+ice-siforcecoriolx.h.tar
+ocn-ABIO_CO2STAR.h.tar
+ice-fswthrun.h.tar
+lnd-SNOFSRVD.h5.tar
+lnd-LITR3N_vr.h3.tar
+lnd-W_SCALAR.h0.tar
+ice-evap.h.tar
+ice-siforcecorioly.h.tar
+Launcher: Job 124 completed in 948 seconds.
+atm-Uzm.h0.tar
+Launcher: Task 17 running job 146 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-145.tar ocn-diat_loss_zint.h.tar ocn-diat_N_lim_Cweight_avg_100m.h.tar ocn-diat_N_lim_surf.h.tar ocn-diat_P_lim_Cweight_avg_100m.h.tar ocn-diat_P_lim_surf.h.tar ocn-diat_SiO3_lim_Cweight_avg_100m.h.tar ocn-diat_SiO3_lim_surf.h.tar ocn-diaz_agg_zint_100m.h.tar ocn-diaz_agg_zint.h.tar ocn-diaz_Fe_lim_Cweight_avg_100m.h.tar ocn-diaz_Fe_lim_surf.h.tar ocn-diaz_light_lim_Cweight_avg_100m.h.tar ocn-diaz_light_lim_surf.h.tar ocn-diaz_loss_doc_zint_100m.h.tar ocn-diaz_loss_doc_zint.h.tar ocn-diaz_loss_poc_zint_100m.h.tar ocn-diaz_loss_poc_zint.h.tar ocn-diaz_loss_zint.h.tar ocn-diaz_P_lim_Cweight_avg_100m.h.tar ocn-diaz_P_lim_surf.h.tar ocn-DIC_ALT_CO2_RIV_FLUX.h.tar ocn-DIC_RIV_FLUX.h.tar ocn-DOC_prod_zint_100m.h.tar ocn-DOC_prod_zint.h.tar ocn-DOC_remin_zint_100m.h.tar ocn-DOC_remin_zint.h.tar ocn-DOC_RIV_FLUX.h.tar ocn-DOCr_remin_zint_100m.h.tar ocn-DOCr_remin_zint.h.tar ocn-DOCr_RIV_FLUX.h.tar ocn-DON_RIV_FLUX.h.tar ocn-DONr_RIV_FLUX.h.tar ocn-DOP_RIV_FLUX.h.tar ocn-DOPr_RIV_FLUX.h.tar ocn-DpCO2_ALT_CO2.h.tar ocn-DpCO2.h.tar ocn-dustToSed.h.tar ocn-ECOSYS_ATM_PRESS.h.tar ocn-ECOSYS_IFRAC.h.tar ocn-ECOSYS_XKW.h.tar ocn-EVAP_F.h.tar ocn-Fe_RIV_FLUX.h.tar ocn-FG_ABIO_DIC14.h.tar ocn-FG_ABIO_DIC.h.tar ocn-FG_ALT_CO2.h.tar ocn-FG_CO2.h.tar ocn-FRACR_BIN_01.h.tar ocn-FRACR_BIN_02.h.tar ocn-FRACR_BIN_03.h.tar ocn-FRACR_BIN_05.h.tar ocn-FRACR_BIN_06.h.tar ocn-FvICE_ABIO_DIC14.h.tar ocn-FvICE_ABIO_DIC.h.tar ocn-FvICE_ALK_ALT_CO2.h.tar ocn-FvICE_ALK.h.tar ocn-FvICE_DIC_ALT_CO2.h.tar ocn-FvICE_DIC.h.tar ocn-FvPER_ABIO_DIC14.h.tar ocn-FvPER_ABIO_DIC.h.tar ocn-FvPER_ALK_ALT_CO2.h.tar ocn-FvPER_ALK.h.tar )
+ocn-diat_loss_zint.h.tar
+ocn-ABIO_D14Catm.h.tar
+atm-THzm.h0.tar
+lnd-FIRE.h1.tar
+lnd-SOILN_vr.h3.tar
+Launcher: Job 127 completed in 896 seconds.
+Launcher: Task 18 running job 147 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-146.tar ocn-FvPER_DIC_ALT_CO2.h.tar ocn-FvPER_DIC.h.tar ocn-FW.h.tar ocn-graze_diat_doc_zint_100m.h.tar ocn-graze_diat_doc_zint.h.tar ocn-graze_diat_poc_zint_100m.h.tar ocn-graze_diat_poc_zint.h.tar ocn-graze_diat_zint_100m.h.tar ocn-graze_diat_zint.h.tar ocn-graze_diat_zoo_zint_100m.h.tar ocn-graze_diat_zoo_zint.h.tar ocn-graze_diaz_doc_zint_100m.h.tar ocn-graze_diaz_doc_zint.h.tar ocn-graze_diaz_poc_zint_100m.h.tar ocn-graze_diaz_poc_zint.h.tar ocn-graze_diaz_zint_100m.h.tar ocn-graze_diaz_zint.h.tar ocn-graze_diaz_zoo_zint_100m.h.tar ocn-graze_diaz_zoo_zint.h.tar ocn-graze_sp_doc_zint_100m.h.tar ocn-graze_sp_doc_zint.h.tar ocn-graze_sp_poc_zint_100m.h.tar ocn-graze_sp_poc_zint.h.tar ocn-graze_sp_zint_100m.h.tar ocn-graze_sp_zint.h.tar ocn-graze_sp_zoo_zint_100m.h.tar ocn-graze_sp_zoo_zint.h.tar ocn-HBLT.h.tar ocn-HDIFS.h.tar ocn-HDIFT.h.tar ocn-HLS_SUBM.h.tar ocn-HMXL_DR2.h.tar ocn-HMXL_DR.h.tar ocn-HMXL.h.tar ocn-IFRAC.h.tar ocn-INT_DEPTH.h.tar ocn-IOFF_F.h.tar ocn-IRON_FLUX.h.tar ocn-Jint_100m_ALK_ALT_CO2.h.tar ocn-Jint_100m_ALK.h.tar ocn-Jint_100m_DIC_ALT_CO2.h.tar ocn-Jint_100m_DIC.h.tar ocn-Jint_100m_DOC.h.tar ocn-Jint_100m_DOCr.h.tar ocn-Jint_100m_Fe.h.tar ocn-Jint_100m_NH4.h.tar ocn-Jint_100m_NO3.h.tar ocn-Jint_100m_O2.h.tar ocn-Jint_100m_PO4.h.tar ocn-Jint_100m_SiO3.h.tar ocn-Jint_ABIO_DIC14.h.tar ocn-LWDN_F.h.tar ocn-LWUP_F.h.tar ocn-MELT_F.h.tar ocn-MELTH_F.h.tar ocn-NHx_SURFACE_EMIS.h.tar ocn-NHy_FLUX.h.tar ocn-NO3_RIV_FLUX.h.tar ocn-NOx_FLUX.h.tar ocn-O2SAT.h.tar ocn-O2_ZMIN_DEPTH.h.tar )
+ocn-FvPER_DIC_ALT_CO2.h.tar
+atm-UVzm.h0.tar
+ice-fhocn.h.tar
+rof-RIVER_DISCHARGE_OVER_LAND_ICE.h0.tar
+ocn-ABIO_DCO2STAR.h.tar
+ice-siforceintstrx.h.tar
+ocn-diat_N_lim_Cweight_avg_100m.h.tar
+atm-VTHzm.h0.tar
+lnd-CWDC_vr.h3.tar
+ocn-FvPER_DIC.h.tar
+atm-Vzm.h0.tar
+ice-flat_ai.h.tar
+lnd-HTOP.h1.tar
+lnd-TV.h5.tar
+lnd-LITR1C_vr.h3.tar
+ocn-diat_N_lim_surf.h.tar
+ocn-ABIO_DpCO2.h.tar
+atm-WTHzm.h0.tar
+lnd-TREFMXAV.h1.tar
+ice-siforceintstry.h.tar
+atm-Wzm.h0.tar
+ocn-FW.h.tar
+ice-flat.h.tar
+lnd-LITR2C_vr.h3.tar
+atm-SSAVIS.h0.tar
+ocn-ABIO_pCO2.h.tar
+atm-SWCF.h0.tar
+ice-siforcetiltx.h.tar
+ocn-diat_P_lim_Cweight_avg_100m.h.tar
+ocn-graze_diat_doc_zint_100m.h.tar
+atm-ACTREL.h0.tar
+ice-flwdn.h.tar
+lnd-LITR3C_vr.h3.tar
+atm-AEROD_v.h0.tar
+ocn-ABIO_pCO2SURF.h.tar
+ice-siforcetilty.h.tar
+ocn-diat_P_lim_surf.h.tar
+ocn-graze_diat_doc_zint.h.tar
+lnd-SOIL1C_vr.h3.tar
+ice-siitdsnthick.h.tar
+ice-flwup.h.tar
+atm-AODABSdn.h0.tar
+atm-AODBCdn.h0.tar
+lnd-SOIL2C_vr.h3.tar
+ocn-diat_SiO3_lim_Cweight_avg_100m.h.tar
+ocn-graze_diat_poc_zint_100m.h.tar
+ice-sig1.h.tar
+ocn-ABIO_PH_SURF.h.tar
+atm-AODdnDUST1.h0.tar
+rof-RIVER_DISCHARGE_OVER_LAND_LIQ.h0.tar
+ice-frazil.h.tar
+Launcher: Job 128 completed in 960 seconds.
+Launcher: Task 10 running job 148 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-147.tar ocn-O2_ZMIN.h.tar ocn-pCO2SURF.h.tar ocn-pfeToSed.h.tar ocn-PH_ALT_CO2.h.tar ocn-PH.h.tar ocn-photoC_diat_zint_100m.h.tar ocn-photoC_diat_zint.h.tar ocn-photoC_diaz_zint_100m.h.tar ocn-photoC_diaz_zint.h.tar ocn-photoC_NO3_TOT_zint_100m.h.tar ocn-photoC_NO3_TOT_zint.h.tar ocn-photoC_sp_zint_100m.h.tar ocn-photoC_sp_zint.h.tar ocn-photoC_TOT_zint_100m.h.tar ocn-photoC_TOT_zint.h.tar ocn-P_iron_FLUX_100m.h.tar ocn-PO4_RIV_FLUX.h.tar ocn-POC_FLUX_100m.h.tar ocn-POC_PROD_zint_100m.h.tar ocn-POC_PROD_zint.h.tar ocn-POC_REMIN_DIC_zint_100m.h.tar ocn-POC_REMIN_DIC_zint.h.tar ocn-POC_REMIN_DOCr_zint_100m.h.tar ocn-POC_REMIN_DOCr_zint.h.tar ocn-pocToSed.h.tar ocn-ponToSed.h.tar ocn-POP_FLUX_100m.h.tar ocn-popToSed.h.tar ocn-PREC_F.h.tar ocn-QFLUX.h.tar ocn-QSW_BIN_01.h.tar ocn-QSW_BIN_02.h.tar ocn-QSW_BIN_03.h.tar ocn-QSW_BIN_04.h.tar ocn-QSW_BIN_05.h.tar ocn-QSW_BIN_06.h.tar ocn-QSW_HBL.h.tar ocn-QSW_HTP.h.tar ocn-RESID_S.h.tar ocn-RESID_T.h.tar ocn-RHO_VINT.h.tar ocn-ROFF_F.h.tar ocn-SALT_F.h.tar ocn-SCHMIDT_CO2.h.tar ocn-SCHMIDT_O2.h.tar ocn-SEAICE_BLACK_CARBON_FLUX_CPL.h.tar ocn-SEAICE_DUST_FLUX_CPL.h.tar ocn-SedDenitrif.h.tar ocn-SENH_F.h.tar ocn-S_FLUX_EXCH_INTRF.h.tar ocn-S_FLUX_ROFF_VSF_SRF.h.tar ocn-SFWF.h.tar ocn-SFWF_WRST.h.tar ocn-SHF.h.tar ocn-SHF_QSW.h.tar ocn-SiO2_FLUX_100m.h.tar ocn-SiO3_RIV_FLUX.h.tar ocn-SNOW_F.h.tar ocn-sp_agg_zint_100m.h.tar ocn-sp_agg_zint.h.tar ocn-sp_Fe_lim_Cweight_avg_100m.h.tar )
+ocn-O2_ZMIN.h.tar
+lnd-SOIL3C_vr.h3.tar
+atm-AODdnDUST2.h0.tar
+ocn-ADVS.h.tar
+ocn-diat_SiO3_lim_surf.h.tar
+ocn-graze_diat_poc_zint.h.tar
+ice-sig2.h.tar
+atm-AODdnDUST3.h0.tar
+ocn-pCO2SURF.h.tar
+lnd-FSA.h1.tar
+ice-fresh.h.tar
+lnd-SOILC_vr.h3.tar
+atm-AODdnMODE1.h0.tar
+ocn-ADVS_ISOP.h.tar
+ocn-diaz_agg_zint_100m.h.tar
+atm-AODdnMODE2.h0.tar
+ocn-graze_diat_zint_100m.h.tar
+ocn-pfeToSed.h.tar
+atm-AODdnMODE3.h0.tar
+lnd-PCT_NAT_PFT.h3.tar
+ice-sihc.h.tar
+lnd-HR_vr.h0.tar
+ice-fsalt.h.tar
+ocn-diaz_agg_zint.h.tar
+atm-AODDUST1.h0.tar
+ocn-graze_diat_zint.h.tar
+lnd-DWT_CONV_CFLUX_PATCH.h2.tar
+atm-AODDUST2.h0.tar
+ocn-ADVS_SUBM.h.tar
+lnd-TSA.h1.tar
+ocn-PH_ALT_CO2.h.tar
+ice-sipr.h.tar
+lnd-DWT_WOOD_PRODUCTC_GAIN_PATCH.h2.tar
+atm-AODDUST3.h0.tar
+ocn-diaz_Fe_lim_Cweight_avg_100m.h.tar
+lnd-NFERTILIZATION.h1.tar
+lnd-AR.h2.tar
+ice-fsens_ai.h.tar
+ocn-graze_diat_zoo_zint_100m.h.tar
+atm-AODDUST.h0.tar
+lnd-COL_FIRE_CLOSS.h2.tar
+atm-AODNIRstdn.h0.tar
+ocn-ADVT.h.tar
+ice-sirdgthick.h.tar
+atm-AODPOMdn.h0.tar
+ocn-PH.h.tar
+ice-fsens.h.tar
+lnd-DWT_SLASH_CFLUX.h2.tar
+ocn-graze_diat_zoo_zint.h.tar
+ocn-diaz_Fe_lim_surf.h.tar
+atm-AODSO4dn.h0.tar
+ice-siitdthick.h.tar
+rof-TOTAL_DISCHARGE_TO_OCEAN_ICE.h0.tar
+lnd-EFLX_GRND_LAKE.h2.tar
+ocn-ADVT_ISOP.h.tar
+atm-AODSOAdn.h0.tar
+ice-sisnhc.h.tar
+Launcher: Job 129 completed in 951 seconds.
+ocn-photoC_diat_zint_100m.h.tar
+Launcher: Task 14 running job 149 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-148.tar ocn-sp_Fe_lim_surf.h.tar ocn-sp_light_lim_Cweight_avg_100m.h.tar ocn-sp_light_lim_surf.h.tar ocn-sp_loss_doc_zint_100m.h.tar ocn-sp_loss_doc_zint.h.tar ocn-sp_loss_poc_zint.h.tar ocn-sp_loss_zint_100m.h.tar ocn-sp_loss_zint.h.tar ocn-sp_N_lim_Cweight_avg_100m.h.tar ocn-sp_N_lim_surf.h.tar ocn-sp_P_lim_Cweight_avg_100m.h.tar ocn-sp_P_lim_surf.h.tar ocn-SSH2.h.tar ocn-SSH.h.tar ocn-SSS2.h.tar ocn-STF_ABIO_DIC14.h.tar ocn-STF_ABIO_DIC.h.tar ocn-STF_ALK_ALT_CO2.h.tar ocn-STF_ALK.h.tar ocn-SU.h.tar ocn-SV.h.tar ocn-TAUX2.h.tar ocn-TAUX.h.tar ocn-TAUY2.h.tar ocn-TAUY.h.tar ocn-TBLT.h.tar ocn-tend_zint_100m_ALK_ALT_CO2.h.tar ocn-tend_zint_100m_ALK.h.tar ocn-tend_zint_100m_DIC_ALT_CO2.h.tar ocn-tend_zint_100m_DIC.h.tar ocn-tend_zint_100m_DOC.h.tar ocn-tend_zint_100m_DOCr.h.tar ocn-tend_zint_100m_Fe.h.tar ocn-tend_zint_100m_NH4.h.tar ocn-tend_zint_100m_NO3.h.tar ocn-tend_zint_100m_O2.h.tar ocn-tend_zint_100m_PO4.h.tar ocn-tend_zint_100m_SiO3.h.tar ocn-T_FLUX_EXCH_INTRF.h.tar ocn-TFW_S.h.tar ocn-TFW_T.h.tar ocn-TLT.h.tar ocn-TMXL_DR.h.tar ocn-TMXL.h.tar ocn-XBLT.h.tar ocn-XMXL_DR.h.tar ocn-XMXL.h.tar ocn-zoo_loss_doc_zint_100m.h.tar ocn-zoo_loss_doc_zint.h.tar ocn-zoo_loss_poc_zint_100m.h.tar ocn-zoo_loss_poc_zint.h.tar ocn-zoo_loss_zint_100m.h.tar ocn-zoo_loss_zint.h.tar ocn-zsatarag.h.tar ocn-zsatcalc.h.tar ocn-diaz_loss_zint_100m.h.tar ocn-FRACR_BIN_04.h.tar ocn-sp_loss_poc_zint_100m.h.tar ocn-STF_O2.h.tar ocn-N_HEAT.h.tar ocn-N_SALT.h.tar )
+ocn-sp_Fe_lim_surf.h.tar
+ice-fswabs.h.tar
+lnd-EFLX_LH_TOT.h2.tar
+ocn-graze_diaz_doc_zint_100m.h.tar
+ocn-diaz_light_lim_Cweight_avg_100m.h.tar
+atm-AODSSdn.h0.tar
+lnd-AGNPP.h1.tar
+lnd-FGR.h2.tar
+Launcher: Job 131 completed in 899 seconds.
+Launcher: Task 13 running job 150 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-149.tar lnd-EFLX_LH_TOT_ICE.h0.tar lnd-EFLX_LH_TOT_R.h0.tar lnd-ELAI.h0.tar lnd-ER.h0.tar lnd-ERRH2O.h0.tar lnd-ERRH2OSNO.h0.tar lnd-ERRSEB.h0.tar lnd-ERRSOI.h0.tar lnd-ERRSOL.h0.tar lnd-ESAI.h0.tar lnd-FAREA_BURNED.h0.tar lnd-FCH4_DFSAT.h0.tar lnd-FCH4.h0.tar lnd-FCH4TOCO2.h0.tar lnd-FCOV.h0.tar lnd-F_DENIT.h0.tar lnd-FFIX_TO_SMINN.h0.tar lnd-FGR12.h0.tar lnd-FGR.h0.tar lnd-FH2OSFC.h0.tar lnd-FINUNDATED.h0.tar lnd-FIRA.h0.tar lnd-FIRA_R.h0.tar lnd-FIRE.h0.tar lnd-FIRE_ICE.h0.tar lnd-FIRE_R.h0.tar lnd-FLDS.h0.tar lnd-FLDS_ICE.h0.tar lnd-F_N2O_DENIT.h0.tar lnd-F_N2O_NIT.h0.tar lnd-F_NIT.h0.tar lnd-FPI.h0.tar lnd-FREE_RETRANSN_TO_NPOOL.h0.tar lnd-FROOTC_ALLOC.h0.tar lnd-FROOTC_LOSS.h0.tar lnd-FROOTC_TO_LITTER.h0.tar lnd-FSA.h0.tar lnd-FSAT.h0.tar lnd-FSDS.h0.tar lnd-FSDSND.h0.tar lnd-FSDSNDLN.h0.tar lnd-FSDSNI.h0.tar lnd-FSDSVD.h0.tar lnd-FSDSVDLN.h0.tar lnd-FSDSVI.h0.tar lnd-FSDSVILN.h0.tar lnd-FSH_G.h0.tar lnd-FSH.h0.tar lnd-FSH_ICE.h0.tar lnd-FSH_PRECIP_CONVERSION.h0.tar lnd-FSH_R.h0.tar lnd-FSH_RUNOFF_ICE_TO_LIQ.h0.tar lnd-FSH_TO_COUPLER.h0.tar lnd-FSH_V.h0.tar lnd-FSNO_EFF.h0.tar lnd-FSNO.h0.tar lnd-FSNO_ICE.h0.tar lnd-FSR.h0.tar lnd-FSR_ICE.h0.tar lnd-FSRND.h0.tar lnd-FSRNDLN.h0.tar lnd-FSRNI.h0.tar lnd-FSRVD.h0.tar lnd-FSRVDLN.h0.tar lnd-FSRVI.h0.tar lnd-GPP.h0.tar lnd-GRAINC.h0.tar lnd-GRAINC_TO_FOOD.h0.tar lnd-GRAINC_TO_SEED.h0.tar lnd-GR.h0.tar lnd-GROSS_NMIN.h0.tar lnd-GSSHA.h0.tar lnd-GSSHALN.h0.tar lnd-GSSUN.h0.tar lnd-GSSUNLN.h0.tar lnd-H2OSNO.h0.tar lnd-H2OSNO_TOP.h0.tar lnd-HEAT_CONTENT1.h0.tar lnd-HEAT_FROM_AC.h0.tar lnd-HIA_R.h0.tar lnd-HIA_U.h0.tar lnd-HR.h0.tar lnd-HUMIDEX_R.h0.tar lnd-HUMIDEX_U.h0.tar lnd-ICE_CONTENT1.h0.tar lnd-JCONVECT.h0.tar lnd-JMX25T.h0.tar lnd-Jmx25Z.h0.tar lnd-LAISHA.h0.tar lnd-LAISUN.h0.tar lnd-LAKEICEFRAC_SURF.h0.tar lnd-LAKEICETHICK.h0.tar lnd-LAND_USE_FLUX.h0.tar lnd-LEAFC_ALLOC.h0.tar lnd-LEAFC_CHANGE.h0.tar lnd-LEAFCN.h0.tar lnd-LEAFC_TO_LITTER_FUN.h0.tar lnd-LEAFC_TO_LITTER.h0.tar lnd-LEAF_MR.h0.tar lnd-LEAFN_TO_LITTER.h0.tar lnd-LFC2.h0.tar lnd-LIQCAN.h0.tar lnd-LIQUID_CONTENT1.h0.tar lnd-LITFALL.h0.tar lnd-LITR1C_TO_SOIL1C.h0.tar lnd-LITR1N_TO_SOIL1N.h0.tar lnd-LITR2C_TO_SOIL1C.h0.tar lnd-LITR2N_TO_SOIL1N.h0.tar lnd-LITR3C_TO_SOIL2C.h0.tar lnd-LITR3N_TO_SOIL2N.h0.tar lnd-LITTERC_HR.h0.tar lnd-LITTERC_LOSS.h0.tar lnd-LIVECROOTC.h0.tar lnd-LIVECROOTN.h0.tar lnd-LNC.h0.tar lnd-MR.h0.tar lnd-NACTIVE.h0.tar lnd-NACTIVE_NH4.h0.tar lnd-NACTIVE_NO3.h0.tar lnd-NAM.h0.tar lnd-NAM_NH4.h0.tar lnd-NAM_NO3.h0.tar lnd-NBP.h0.tar lnd-NDEPLOY.h0.tar lnd-NDEP_TO_SMINN.h0.tar lnd-NECM.h0.tar lnd-NECM_NH4.h0.tar lnd-NECM_NO3.h0.tar lnd-NEE.h0.tar lnd-NEM.h0.tar lnd-NEP.h0.tar lnd-NET_NMIN.h0.tar lnd-NFERTILIZATION.h0.tar lnd-NFIRE.h0.tar lnd-NFIX.h0.tar lnd-NNONMYC.h0.tar lnd-NNONMYC_NH4.h0.tar )
+lnd-EFLX_LH_TOT_ICE.h0.tar
+ocn-sp_light_lim_Cweight_avg_100m.h.tar
+atm-AODUVdn.h0.tar
+lnd-FIRA.h2.tar
+ocn-ADVT_SUBM.h.tar
+ice-fswdn.h.tar
+lnd-EFLX_LH_TOT_R.h0.tar
+ice-sisnthick.h.tar
+ocn-photoC_diat_zint.h.tar
+ocn-graze_diaz_doc_zint.h.tar
+atm-AODUVstdn.h0.tar
+ocn-diaz_light_lim_surf.h.tar
+Launcher: Job 132 completed in 900 seconds.
+Launcher: Task 1 running job 151 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-150.tar lnd-NNONMYC_NO3.h0.tar lnd-NPASSIVE.h0.tar lnd-NPOOL.h0.tar lnd-NPP_GROWTH.h0.tar lnd-NPP.h0.tar lnd-NPP_NACTIVE.h0.tar lnd-NPP_NACTIVE_NH4.h0.tar lnd-NPP_NACTIVE_NO3.h0.tar lnd-NPP_NAM.h0.tar lnd-NPP_NAM_NH4.h0.tar lnd-NPP_NAM_NO3.h0.tar lnd-NPP_NECM.h0.tar lnd-NPP_NECM_NH4.h0.tar lnd-NPP_NECM_NO3.h0.tar lnd-NPP_NFIX.h0.tar lnd-NPP_NNONMYC.h0.tar lnd-NPP_NNONMYC_NH4.h0.tar lnd-NPP_NNONMYC_NO3.h0.tar lnd-NPP_NRETRANS.h0.tar lnd-NPP_NUPTAKE.h0.tar lnd-NRETRANS.h0.tar lnd-NRETRANS_REG.h0.tar lnd-NRETRANS_SEASON.h0.tar lnd-NRETRANS_STRESS.h0.tar lnd-NUPTAKE.h0.tar lnd-NUPTAKE_NPP_FRACTION.h0.tar lnd-OCDEP.h0.tar lnd-PARVEGLN.h0.tar lnd-PBOT.h0.tar lnd-PCH4.h0.tar lnd-PCO2.h0.tar lnd-PFT_FIRE_CLOSS.h0.tar lnd-PFT_FIRE_NLOSS.h0.tar lnd-PLANT_NDEMAND.h0.tar lnd-POTENTIAL_IMMOB.h0.tar lnd-POT_F_DENIT.h0.tar lnd-POT_F_NIT.h0.tar lnd-PSNSHADE_TO_CPOOL.h0.tar lnd-PSNSHA.h0.tar lnd-PSNSUN.h0.tar lnd-PSNSUN_TO_CPOOL.h0.tar lnd-QBOT.h0.tar lnd-QCHARGE.h0.tar lnd-QDRAI_PERCH.h0.tar lnd-QDRAI_XS.h0.tar lnd-QFLOOD.h0.tar lnd-QFLX_DEW_GRND.h0.tar lnd-QFLX_DEW_SNOW.h0.tar lnd-QFLX_EVAP_TOT.h0.tar lnd-QFLX_ICE_DYNBAL.h0.tar lnd-QFLX_LIQ_DYNBAL.h0.tar lnd-QFLX_SNOW_DRAIN.h0.tar lnd-QFLX_SNOW_DRAIN_ICE.h0.tar lnd-QFLX_SUB_SNOW.h0.tar lnd-QFLX_SUB_SNOW_ICE.h0.tar lnd-QIRRIG.h0.tar lnd-QRGWL.h0.tar lnd-QRUNOFF.h0.tar lnd-QRUNOFF_ICE.h0.tar lnd-QRUNOFF_ICE_TO_COUPLER.h0.tar lnd-QRUNOFF_RAIN_TO_SNOW_CONVERSION.h0.tar lnd-QRUNOFF_TO_COUPLER.h0.tar lnd-QSNOCPLIQ.h0.tar lnd-QSNOEVAP.h0.tar lnd-QSNOFRZ.h0.tar lnd-QSNOFRZ_ICE.h0.tar lnd-QSNOMELT_ICE.h0.tar lnd-QSNO_TEMPUNLOAD.h0.tar lnd-QSNO_WINDUNLOAD.h0.tar lnd-QSNWCPICE.h0.tar lnd-QSOIL.h0.tar lnd-QSOIL_ICE.h0.tar lnd-RAIN_FROM_ATM.h0.tar lnd-RAIN.h0.tar lnd-RAIN_ICE.h0.tar lnd-RETRANSN.h0.tar lnd-RETRANSN_TO_NPOOL.h0.tar lnd-RR.h0.tar lnd-RSSHA.h0.tar lnd-RSSUN.h0.tar lnd-SABG.h0.tar lnd-SABG_PEN.h0.tar lnd-SABV.h0.tar lnd-SEEDC.h0.tar lnd-SEEDN.h0.tar lnd-SLASH_HARVESTC.h0.tar lnd-SMIN_NO3_LEACHED.h0.tar lnd-SMIN_NO3_RUNOFF.h0.tar lnd-SMINN_TO_NPOOL.h0.tar lnd-SMINN_TO_PLANT_FUN.h0.tar lnd-SMINN_TO_PLANT.h0.tar lnd-SNOBCMCL.h0.tar lnd-SNOBCMSL.h0.tar lnd-SNODSTMCL.h0.tar lnd-SNODSTMSL.h0.tar lnd-SNOFSRND.h0.tar lnd-SNOFSRNI.h0.tar lnd-SNOFSRVD.h0.tar lnd-SNOFSRVI.h0.tar lnd-SNOINTABS.h0.tar lnd-SNOOCMCL.h0.tar lnd-SNOOCMSL.h0.tar lnd-SNOTXMASS.h0.tar lnd-SNOTXMASS_ICE.h0.tar lnd-SNOUNLOAD.h0.tar lnd-SNOW_DEPTH.h0.tar lnd-SNOWDP.h0.tar lnd-SNOW_FROM_ATM.h0.tar lnd-SNOW.h0.tar lnd-SNOW_ICE.h0.tar lnd-SNOWICE_ICE.h0.tar lnd-SNOWLIQ.h0.tar lnd-SNOWLIQ_ICE.h0.tar lnd-SNOW_PERSISTENCE.h0.tar lnd-SNOW_SINKS.h0.tar lnd-SNOW_SOURCES.h0.tar lnd-SOILC_CHANGE.h0.tar lnd-SOILC_HR.h0.tar lnd-SOILRESIS.h0.tar lnd-SOILWATER_10CM.h0.tar lnd-SOMC_FIRE.h0.tar lnd-SOM_C_LEACHED.h0.tar lnd-SR.h0.tar lnd-STORVEGC.h0.tar lnd-STORVEGN.h0.tar lnd-SUPPLEMENT_TO_SMINN.h0.tar lnd-SWBGT.h0.tar lnd-SWBGT_R.h0.tar lnd-SWBGT_U.h0.tar lnd-TAUY.h0.tar lnd-TBOT.h0.tar lnd-TBUILD.h0.tar lnd-TG_ICE.h0.tar lnd-TH2OSFC.h0.tar lnd-THBOT.h0.tar lnd-TKE1.h0.tar lnd-TLAI.h0.tar )
+lnd-NNONMYC_NO3.h0.tar
+lnd-FIRE.h2.tar
+lnd-ELAI.h0.tar
+atm-AODVISdn.h0.tar
+ocn-sp_light_lim_surf.h.tar
+lnd-NPASSIVE.h0.tar
+lnd-ER.h0.tar
+ice-fswthru.h.tar
+ocn-ALK_ALT_CO2_RIV_FLUX.h.tar
+ocn-graze_diaz_poc_zint_100m.h.tar
+ice-sispeed.h.tar
+ocn-photoC_diaz_zint_100m.h.tar
+ocn-diaz_loss_doc_zint_100m.h.tar
+lnd-FLDS.h2.tar
+lnd-ERRH2O.h0.tar
+lnd-NPOOL.h0.tar
+atm-AODVIS.h0.tar
+lnd-ERRH2OSNO.h0.tar
+lnd-FROOTC.h2.tar
+rof-TOTAL_DISCHARGE_TO_OCEAN_LIQ.h0.tar
+atm-AODVISstdn.h0.tar
+ice-fswup.h.tar
+ocn-sp_loss_doc_zint_100m.h.tar
+lnd-NPP_GROWTH.h0.tar
+ocn-graze_diaz_poc_zint.h.tar
+ice-sistreave.h.tar
+lnd-ERRSEB.h0.tar
+ocn-diaz_loss_doc_zint.h.tar
+ocn-ALK_RIV_FLUX.h.tar
+lnd-FSA.h2.tar
+lnd-TSKIN.h1.tar
+ocn-photoC_diaz_zint.h.tar
+Launcher: Job 130 completed in 972 seconds.
+Launcher: Task 0 running job 152 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-151.tar lnd-TOPO_COL_ICE.h0.tar lnd-TOTCOLC.h0.tar lnd-TOTCOLCH4.h0.tar lnd-TOTCOLN.h0.tar lnd-TOTECOSYSC.h0.tar lnd-TOTECOSYSN.h0.tar lnd-TOTLITC_1m.h0.tar lnd-TOTLITC.h0.tar lnd-TOTLITN_1m.h0.tar lnd-TOTPFTC.h0.tar lnd-TOTPFTN.h0.tar lnd-TOTSOILICE.h0.tar lnd-TOTSOILLIQ.h0.tar lnd-TOTSOMC_1m.h0.tar lnd-TOTSOMC.h0.tar lnd-TOTSOMN_1m.h0.tar lnd-TOTSOMN.h0.tar lnd-TOTVEGC.h0.tar lnd-TOTVEGN.h0.tar lnd-TOT_WOODPRODC.h0.tar lnd-TOT_WOODPRODC_LOSS.h0.tar lnd-TOT_WOODPRODN.h0.tar lnd-TOT_WOODPRODN_LOSS.h0.tar lnd-TPU25T.h0.tar lnd-TREFMNAV.h0.tar lnd-TREFMXAV.h0.tar lnd-TSA_ICE.h0.tar lnd-TSAI.h0.tar lnd-TSL.h0.tar lnd-TSOI_10CM.h0.tar lnd-U10_DUST.h0.tar lnd-URBAN_AC.h0.tar lnd-URBAN_HEAT.h0.tar lnd-UST_LAKE.h0.tar lnd-VCMX25T.h0.tar lnd-Vcmx25Z.h0.tar lnd-VOLR.h0.tar lnd-VOLRMCH.h0.tar lnd-WA.h0.tar lnd-WASTEHEAT.h0.tar lnd-WBT_R.h0.tar lnd-WBT_U.h0.tar lnd-WIND.h0.tar lnd-WOODC_ALLOC.h0.tar lnd-WOOD_HARVESTC.h0.tar lnd-WOOD_HARVESTN.h0.tar lnd-WTGQ.h0.tar lnd-XSMRPOOL.h0.tar lnd-XSMRPOOL_RECOVER.h0.tar lnd-ZBOT.h0.tar lnd-ZWT_CH4_UNSAT.h0.tar lnd-ZWT.h0.tar lnd-ZWT_PERCH.h0.tar lnd-AGNPP.h0.tar lnd-BGNPP.h0.tar lnd-CWDC.h0.tar lnd-CWDN.h0.tar lnd-DEADSTEMC.h0.tar lnd-DEADSTEMN.h0.tar lnd-FCEV.h0.tar lnd-FCTR.h0.tar lnd-FGEV.h0.tar lnd-FPSN.h0.tar lnd-FROOTC.h0.tar lnd-FROOTN.h0.tar lnd-FSM.h0.tar lnd-FUELC.h0.tar lnd-GRAINN.h0.tar lnd-H2OCAN.h0.tar lnd-H2OSFC.h0.tar lnd-HIA.h0.tar lnd-HTOP.h0.tar lnd-HUMIDEX.h0.tar lnd-LEAFC.h0.tar lnd-LEAFC_LOSS.h0.tar lnd-LEAFN.h0.tar lnd-LITR1C.h0.tar lnd-LITR1N.h0.tar lnd-LITR2C.h0.tar lnd-LITR2N.h0.tar lnd-LITR3C.h0.tar lnd-LITR3N.h0.tar lnd-LIVESTEMC.h0.tar lnd-LIVESTEMN.h0.tar lnd-Q2M.h0.tar lnd-QDRAI.h0.tar lnd-QDRIP.h0.tar lnd-QH2OSFC.h0.tar lnd-QICE_FRZ.h0.tar lnd-QICE.h0.tar lnd-QICE_MELT.h0.tar lnd-QINFL.h0.tar lnd-QINTR.h0.tar lnd-QOVER.h0.tar lnd-QSNOMELT.h0.tar lnd-QVEGE.h0.tar lnd-QVEGT.h0.tar lnd-RH2M.h0.tar lnd-SMINN.h0.tar lnd-SMIN_NH4.h0.tar lnd-SMIN_NO3.h0.tar lnd-SNOCAN.h0.tar lnd-SNOWICE.h0.tar lnd-SOIL1C.h0.tar lnd-SOIL1N.h0.tar lnd-SOIL2C.h0.tar lnd-SOIL2N.h0.tar lnd-SOIL3C.h0.tar lnd-SOIL3N.h0.tar lnd-TAUX.h0.tar lnd-TG.h0.tar lnd-TOTLITN.h0.tar lnd-TSA.h0.tar lnd-TSKIN.h0.tar lnd-TV.h0.tar lnd-TWS.h0.tar lnd-U10.h0.tar lnd-WBT.h0.tar lnd-WOODC.h0.tar lnd-WOODC_LOSS.h0.tar lnd-QICE_FORC.h3.tar lnd-TOPO_FORC.h3.tar lnd-TSRF_FORC.h3.tar lnd-PCT_GLC_MEC.h3.tar lnd-PCT_LANDUNIT.h3.tar lnd-DEADCROOTC.h4.tar lnd-FROOTC.h4.tar lnd-LIVECROOTC.h4.tar lnd-TOTECOSYSC.h4.tar lnd-TOTLITC.h4.tar lnd-TOTSOMC_1m.h4.tar lnd-TOTSOMC.h4.tar lnd-TOTVEGC.h4.tar lnd-CROPPROD1C.h3.tar lnd-FSNO_ICE.h3.tar lnd-TOTLITC.h3.tar lnd-TOTSOMC.h3.tar lnd-TOTVEGC.h3.tar lnd-TOT_WOODPRODC.h3.tar )
+lnd-TOPO_COL_ICE.h0.tar
+lnd-NPP.h0.tar
+lnd-ERRSOI.h0.tar
+atm-AQ_SO2.h0.tar
+Launcher: Job 133 completed in 924 seconds.
+Launcher: Task 15 running job 153 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-152.tar atm-DF_H2O2.h0.tar atm-DF_H2SO4.h0.tar atm-DF_SO2.h0.tar atm-DMS_SRF.h0.tar atm-dry_deposition_NHx_as_N.h0.tar atm-dry_deposition_NOy_as_N.h0.tar atm-dst_a1DDF.h0.tar atm-dst_a1SF.h0.tar atm-dst_a1SFWET.h0.tar atm-dst_a1_SRF.h0.tar atm-dst_a2DDF.h0.tar atm-dst_a2SF.h0.tar atm-dst_a2SFWET.h0.tar atm-dst_a2_SRF.h0.tar atm-dst_a3DDF.h0.tar atm-dst_a3SF.h0.tar atm-dst_a3SFWET.h0.tar atm-dst_a3_SRF.h0.tar atm-dst_c1SFWET.h0.tar atm-dst_c2DDF.h0.tar atm-dst_c2SFWET.h0.tar atm-dst_c3SFWET.h0.tar atm-DSTSFMBL.h0.tar atm-FCTL.h0.tar atm-FLDSC.h0.tar atm-FLDS.h0.tar atm-FLNR.h0.tar atm-FLNSC.h0.tar atm-FLNS.h0.tar atm-FLNTC.h0.tar atm-FLNTCLR.h0.tar atm-FLUTC.h0.tar atm-FLUT.h0.tar atm-FREQCLR.h0.tar atm-FREQZM.h0.tar atm-FSDSC.h0.tar atm-FSDS.h0.tar atm-FSNR.h0.tar atm-FSNSC.h0.tar atm-FSNS.h0.tar atm-FSNTC.h0.tar atm-FSNT.h0.tar atm-FSNTOAC.h0.tar atm-FSNTOA.h0.tar atm-FSUTOA.h0.tar atm-GS_SO2.h0.tar atm-H2O2_SRF.h0.tar atm-H2O_CLXF.h0.tar atm-H2O_CMXF.h0.tar atm-H2O_SRF.h0.tar atm-H2SO4_sfnnuc1.h0.tar atm-H2SO4_SRF.h0.tar atm-ICEFRAC.h0.tar atm-LANDFRAC.h0.tar atm-LHFLX.h0.tar atm-LWCF.h0.tar atm-MSKtem.h0.tar atm-ncl_a1DDF.h0.tar atm-ncl_a1SF.h0.tar atm-ncl_a1SFWET.h0.tar atm-ncl_a1_SRF.h0.tar atm-ncl_a2DDF.h0.tar atm-ncl_a2SF.h0.tar atm-ncl_a2SFWET.h0.tar atm-ncl_a2_SRF.h0.tar atm-ncl_a3DDF.h0.tar atm-ncl_a3SF.h0.tar atm-ncl_a3SFWET.h0.tar atm-ncl_a3_SRF.h0.tar atm-ncl_c1SFWET.h0.tar atm-ncl_c2SFWET.h0.tar atm-ncl_c3SFWET.h0.tar atm-num_a1_CLXF.h0.tar atm-num_a1_CMXF.h0.tar atm-num_a1DDF.h0.tar atm-num_a1SF.h0.tar atm-num_a1SFWET.h0.tar atm-num_a1_SRF.h0.tar atm-num_a2_CLXF.h0.tar atm-num_a2_CMXF.h0.tar atm-num_a2DDF.h0.tar atm-num_a2SF.h0.tar atm-num_a2_sfnnuc1.h0.tar atm-num_a2SFWET.h0.tar atm-num_a2_SRF.h0.tar atm-num_a3DDF.h0.tar atm-num_a3SF.h0.tar atm-num_a3SFWET.h0.tar atm-num_a3_SRF.h0.tar atm-num_a4_CLXF.h0.tar atm-num_a4_CMXF.h0.tar atm-num_a4DDF.h0.tar atm-num_a4SFWET.h0.tar atm-num_a4_SRF.h0.tar atm-num_c1SFWET.h0.tar atm-num_c2SFWET.h0.tar atm-num_c3SFWET.h0.tar atm-num_c4DDF.h0.tar atm-num_c4SFWET.h0.tar atm-OCNFRAC.h0.tar atm-PBLH.h0.tar atm-PHIS.h0.tar atm-pom_a1DDF.h0.tar atm-pom_a1SFWET.h0.tar atm-pom_a1_SRF.h0.tar atm-pom_a4_CLXF.h0.tar atm-pom_a4_CMXF.h0.tar atm-pom_a4DDF.h0.tar atm-pom_a4SFWET.h0.tar atm-pom_a4_SRF.h0.tar atm-pom_c1SFWET.h0.tar atm-pom_c4DDF.h0.tar atm-pom_c4SFWET.h0.tar atm-PRECC.h0.tar atm-PRECL.h0.tar atm-PRECSC.h0.tar atm-PRECSL.h0.tar atm-PRECT.h0.tar atm-PS.h0.tar atm-PSL.h0.tar atm-QFLX.h0.tar atm-QREFHT.h0.tar atm-RHREFHT.h0.tar atm-SFbc_a1.h0.tar atm-SFbc_a4.h0.tar atm-SFCO2_FFF.h0.tar atm-SFCO2.h0.tar atm-SFCO2_LND.h0.tar atm-SFCO2_OCN.h0.tar atm-SFDMS.h0.tar atm-SFdst_a1.h0.tar atm-SFdst_a2.h0.tar atm-SFdst_a3.h0.tar atm-SFH2O2.h0.tar atm-SFH2SO4.h0.tar atm-SFncl_a1.h0.tar atm-SFncl_a2.h0.tar )
+atm-DF_H2O2.h0.tar
+lnd-FSH.h2.tar
+lnd-TOTCOLC.h0.tar
+lnd-NPP_NACTIVE.h0.tar
+atm-AREA.h0.tar
+ocn-sp_loss_doc_zint.h.tar
+lnd-ERRSOL.h0.tar
+atm-DF_H2SO4.h0.tar
+ice-hi.h.tar
+ocn-graze_diaz_zint_100m.h.tar
+lnd-FSH.h1.tar
+lnd-NPP.h1.tar
+lnd-FSM.h2.tar
+ice-sistremax.h.tar
+lnd-NPP_NACTIVE_NH4.h0.tar
+lnd-ESAI.h0.tar
+ocn-diaz_loss_poc_zint_100m.h.tar
+ice-vsnon.h.tar
+ocn-photoC_NO3_TOT_zint_100m.h.tar
+lnd-TOTCOLCH4.h0.tar
+ocn-ATM_ALT_CO2.h.tar
+atm-DF_SO2.h0.tar
+atm-bc_a1DDF.h0.tar
+lnd-NPP_NACTIVE_NO3.h0.tar
+lnd-FAREA_BURNED.h0.tar
+lnd-FSR.h2.tar
+atm-bc_a1SFWET.h0.tar
+atm-DMS_SRF.h0.tar
+ocn-sp_loss_poc_zint.h.tar
+lnd-FCH4_DFSAT.h0.tar
+lnd-TOTCOLN.h0.tar
+ice-hs.h.tar
+lnd-GPP.h2.tar
+lnd-NPP_NAM.h0.tar
+ocn-diaz_loss_poc_zint.h.tar
+ice-sistrxdtop.h.tar
+atm-dry_deposition_NHx_as_N.h0.tar
+lnd-TOTECOSYSC.h0.tar
+lnd-FCH4.h0.tar
+atm-bc_a1_SRF.h0.tar
+ocn-ATM_BLACK_CARBON_FLUX_CPL.h.tar
+ocn-graze_diaz_zint.h.tar
+lnd-NPP_NAM_NH4.h0.tar
+ocn-photoC_NO3_TOT_zint.h.tar
+lnd-GRAINC_TO_FOOD.h2.tar
+atm-dry_deposition_NOy_as_N.h0.tar
+lnd-TOTECOSYSN.h0.tar
+lnd-FCH4TOCO2.h0.tar
+atm-bc_a4_CLXF.h0.tar
+ocn-sp_loss_zint_100m.h.tar
+lnd-NPP_NAM_NO3.h0.tar
+ice-ice_present.h.tar
+ocn-diaz_loss_zint.h.tar
+lnd-TOTLITC_1m.h0.tar
+Launcher: Job 142 completed in 323 seconds.
+Launcher: Task 11 running job 154 on c307-012.ls6.tacc.utexas.edu (tar -cvf /scratch/07644/oxygen/archives/CESM2-153.tar atm-SFncl_a3.h0.tar atm-SFnum_a1.h0.tar atm-SFnum_a2.h0.tar atm-SFnum_a3.h0.tar atm-SFnum_a4.h0.tar atm-SFpom_a1.h0.tar atm-SFpom_a4.h0.tar atm-SFSO2.h0.tar atm-SFso4_a1.h0.tar atm-SFso4_a2.h0.tar atm-SFso4_a3.h0.tar atm-SFsoa_a1.h0.tar atm-SFsoa_a2.h0.tar atm-SFSOAG.h0.tar atm-SHFLX.h0.tar atm-SNOWHICE.h0.tar atm-SNOWHLND.h0.tar atm-SO2_CLXF.h0.tar atm-SO2_CMXF.h0.tar atm-SO2_SRF.h0.tar atm-so4_a1_CLXF.h0.tar atm-so4_a1_CMXF.h0.tar atm-so4_a1DDF.h0.tar atm-so4_a1_sfgaex1.h0.tar atm-so4_a1SFWET.h0.tar atm-so4_a1_SRF.h0.tar atm-so4_a2_CLXF.h0.tar atm-so4_a2_CMXF.h0.tar atm-so4_a2DDF.h0.tar atm-so4_a2_sfgaex1.h0.tar atm-so4_a2_sfnnuc1.h0.tar atm-so4_a2SFWET.h0.tar atm-so4_a2_SRF.h0.tar atm-so4_a3DDF.h0.tar atm-so4_a3_sfgaex1.h0.tar atm-so4_a3SFWET.h0.tar atm-so4_a3_SRF.h0.tar atm-so4_c1AQH2SO4.h0.tar atm-so4_c1AQSO4.h0.tar atm-so4_c1SFWET.h0.tar atm-so4_c2AQH2SO4.h0.tar atm-so4_c2AQSO4.h0.tar atm-so4_c2SFWET.h0.tar atm-so4_c3AQH2SO4.h0.tar atm-so4_c3AQSO4.h0.tar atm-so4_c3SFWET.h0.tar atm-soa_a1DDF.h0.tar atm-soa_a1SFWET.h0.tar atm-soa_a1_SRF.h0.tar atm-soa_a2DDF.h0.tar atm-soa_a2SFWET.h0.tar atm-soa_a2_SRF.h0.tar atm-soa_c1SFWET.h0.tar atm-soa_c2SFWET.h0.tar atm-SOAG_SRF.h0.tar atm-SOLIN.h0.tar atm-SOLLD.h0.tar atm-SOLSD.h0.tar atm-SST.h0.tar atm-TAUBLJX.h0.tar atm-TAUBLJY.h0.tar atm-TAUGWX.h0.tar atm-TAUGWY.h0.tar atm-TAUX.h0.tar atm-TAUY.h0.tar atm-TGCLDCWP.h0.tar atm-TGCLDIWP.h0.tar atm-TGCLDLWP.h0.tar atm-TMCO2_FFF.h0.tar atm-TMCO2.h0.tar atm-TMCO2_LND.h0.tar atm-TMCO2_OCN.h0.tar atm-TMDMS.h0.tar atm-TMQ.h0.tar atm-TMSO2.h0.tar atm-TMso4_a1.h0.tar atm-TMso4_a2.h0.tar atm-TMso4_a3.h0.tar atm-TREFHT.h0.tar atm-TREFHTMN.h0.tar atm-TREFHTMX.h0.tar atm-TROP_P.h0.tar atm-TROP_T.h0.tar atm-TROP_Z.h0.tar atm-TS.h0.tar atm-TSMN.h0.tar atm-TSMX.h0.tar atm-U10.h0.tar atm-WD_H2O2.h0.tar atm-WD_H2SO4.h0.tar atm-WD_SO2.h0.tar atm-wet_deposition_NHx_as_N.h0.tar atm-WSPDSRFAV.h0.tar atm-WSPDSRFMX.h0.tar atm-UWzm.h0.tar atm-FLNT.h0.tar atm-bc_c4SFWET.h0.tar atm-wet_deposition_NOy_as_N.h0.tar )
+atm-SFncl_a3.h0.tar
+atm-dst_a1DDF.h0.tar
+Launcher: Job 134 completed in 838 seconds.
+Launcher: Task 6 done. Exiting.
+lnd-H2OSNO.h2.tar
+ocn-ATM_CO2.h.tar
+lnd-FCOV.h0.tar
+ocn-photoC_sp_zint_100m.h.tar
+lnd-NPP_NECM.h0.tar
+ocn-graze_diaz_zoo_zint_100m.h.tar
+atm-bc_a4_CMXF.h0.tar
+lnd-TOTLITC.h0.tar
+atm-dst_a1SF.h0.tar
+lnd-AR.h1.tar
+atm-SFnum_a1.h0.tar
+lnd-HIA.h2.tar
+ice-sistrxubot.h.tar
+lnd-NPP_NECM_NH4.h0.tar
+lnd-F_DENIT.h0.tar
+ocn-sp_loss_zint.h.tar
+atm-dst_a1SFWET.h0.tar
+lnd-TOTLITN_1m.h0.tar
+ocn-diaz_P_lim_Cweight_avg_100m.h.tar
+atm-bc_a4DDF.h0.tar
+ice-meltb.h.tar
+lnd-HR.h2.tar
+atm-SFnum_a2.h0.tar
+lnd-NPP_NECM_NO3.h0.tar
+lnd-FFIX_TO_SMINN.h0.tar
+atm-dst_a1_SRF.h0.tar
+ocn-photoC_sp_zint.h.tar
+ocn-ATM_COARSE_DUST_FLUX_CPL.h.tar
+atm-bc_a4SFWET.h0.tar
+lnd-TOTPFTC.h0.tar
+ocn-graze_diaz_zoo_zint.h.tar
+lnd-FGR12.h0.tar
+lnd-HTOP.h2.tar
+ice-sistrydtop.h.tar
+atm-SFnum_a3.h0.tar
+atm-dst_a2DDF.h0.tar
+lnd-NPP_NFIX.h0.tar
+ocn-sp_N_lim_Cweight_avg_100m.h.tar
+ice-meltl.h.tar
+lnd-FGR.h0.tar
+ocn-diaz_P_lim_surf.h.tar
+atm-bc_a4_SRF.h0.tar
+lnd-TOTPFTN.h0.tar
+atm-dst_a2SF.h0.tar
+lnd-HUMIDEX.h2.tar
+atm-SFnum_a4.h0.tar
+lnd-NPP_NNONMYC.h0.tar
+ocn-ATM_FINE_DUST_FLUX_CPL.h.tar
+ocn-photoC_TOT_zint_100m.h.tar
+ocn-graze_sp_doc_zint_100m.h.tar
+lnd-FH2OSFC.h0.tar
+atm-dst_a2SFWET.h0.tar
+atm-bc_c1SFWET.h0.tar
+lnd-TOTSOILICE.h0.tar
+lnd-NPP.h2.tar
+lnd-NPP_NNONMYC_NH4.h0.tar
+atm-SFpom_a1.h0.tar
+atm-dst_a2_SRF.h0.tar
+lnd-FINUNDATED.h0.tar
+lnd-TOTSOILLIQ.h0.tar
+atm-bc_c4DDF.h0.tar
+lnd-NPP_NNONMYC_NO3.h0.tar
+ice-sistryubot.h.tar
+ice-melts.h.tar
+ocn-sp_N_lim_surf.h.tar
+atm-SFpom_a4.h0.tar
+atm-dst_a3DDF.h0.tar
+lnd-FIRA.h0.tar
+ocn-photoC_TOT_zint.h.tar
+lnd-Vcmx25Z.h1.tar
+ocn-BSF.h.tar
+lnd-TOTSOMC_1m.h0.tar
+lnd-Q2M.h2.tar
+lnd-NPP_NRETRANS.h0.tar
+atm-BURDENBCdn.h0.tar
+ocn-DIC_ALT_CO2_RIV_FLUX.h.tar
+ocn-graze_sp_doc_zint.h.tar
+atm-dst_a3SF.h0.tar
+atm-SFSO2.h0.tar
+lnd-FIRA_R.h0.tar
+lnd-TOTSOMC.h0.tar
+lnd-QIRRIG.h2.tar
+lnd-NPP_NUPTAKE.h0.tar
+ice-sitempbot.h.tar
+atm-dst_a3SFWET.h0.tar
+ocn-P_iron_FLUX_100m.h.tar
+ice-meltt.h.tar
+atm-BURDENDUSTdn.h0.tar
+ocn-sp_P_lim_Cweight_avg_100m.h.tar
+atm-SFso4_a1.h0.tar
+lnd-FSR.h1.tar
+ocn-graze_sp_poc_zint_100m.h.tar
+lnd-NRETRANS.h0.tar
+ice-aicen.h.tar
+lnd-TOTSOMN_1m.h0.tar
+lnd-FIRE.h0.tar
+lnd-QRUNOFF.h2.tar
+atm-dst_a3_SRF.h0.tar
+ocn-DIC_RIV_FLUX.h.tar
+ocn-bsiToSed.h.tar
+atm-BURDENPOMdn.h0.tar
+lnd-NRETRANS_REG.h0.tar
+atm-SFso4_a2.h0.tar
+atm-dst_c1SFWET.h0.tar
+lnd-FIRE_ICE.h0.tar
+lnd-TOTSOMN.h0.tar
+ice-sitempsnic.h.tar
+atm-BURDENSEASALTdn.h0.tar
+ocn-PO4_RIV_FLUX.h.tar
+atm-SFso4_a3.h0.tar
+ocn-graze_sp_poc_zint.h.tar
+lnd-RH2M.h2.tar
+lnd-NRETRANS_SEASON.h0.tar
+atm-dst_c2DDF.h0.tar
+lnd-TOTVEGC.h0.tar
+ocn-sp_P_lim_surf.h.tar
+lnd-FIRE_R.h0.tar
+ice-rain.h.tar
+lnd-NPP_NUPTAKE.h1.tar
+atm-BURDENSO4dn.h0.tar
+ocn-DOC_prod_zint_100m.h.tar
+lnd-TOTVEGN.h0.tar
+lnd-SABG.h2.tar
+atm-dst_c2SFWET.h0.tar
+atm-SFsoa_a1.h0.tar
+ocn-CaCO3_FLUX_100m.h.tar
+lnd-NRETRANS_STRESS.h0.tar
+lnd-FLDS.h0.tar
+atm-BURDENSOAdn.h0.tar
+lnd-TOT_WOODPRODC.h0.tar
+ice-sitemptop.h.tar
+atm-dst_c3SFWET.h0.tar
+lnd-NUPTAKE.h0.tar
+ocn-POC_FLUX_100m.h.tar
+lnd-FLDS_ICE.h0.tar
+lnd-SLASH_HARVESTC.h2.tar
+ocn-graze_sp_zint_100m.h.tar
+ocn-SSH2.h.tar
+atm-SFsoa_a2.h0.tar
+lnd-TOT_WOODPRODC_LOSS.h0.tar
+ocn-DOC_prod_zint.h.tar
+ice-shear.h.tar
+atm-DSTSFMBL.h0.tar
+atm-CAPE.h0.tar
+lnd-NUPTAKE_NPP_FRACTION.h0.tar
+lnd-SNOWDP.h2.tar
+lnd-F_N2O_DENIT.h0.tar
+atm-SFSOAG.h0.tar
+ice-sithick.h.tar
+lnd-TOT_WOODPRODN.h0.tar
+ocn-CaCO3_form_zint_100m.h.tar
+atm-FCTL.h0.tar
+atm-CDNUMC.h0.tar
+lnd-OCDEP.h0.tar
+lnd-F_N2O_NIT.h0.tar
+atm-SHFLX.h0.tar
+ocn-SSH.h.tar
+atm-FLDSC.h0.tar
+ice-siage.h.tar
+lnd-SoilAlpha_U.h2.tar
+ocn-POC_PROD_zint_100m.h.tar
+lnd-TOT_WOODPRODN_LOSS.h0.tar
+ocn-graze_sp_zint.h.tar
+lnd-PARVEGLN.h0.tar
+atm-CLDHGH.h0.tar
+atm-SNOWHICE.h0.tar
+lnd-F_NIT.h0.tar
+ocn-DOC_remin_zint_100m.h.tar
+atm-FLDS.h0.tar
+lnd-TPU25T.h0.tar
+ocn-CaCO3_form_zint.h.tar
+lnd-SOILWATER_10CM.h2.tar
+lnd-PBOT.h0.tar
+atm-CLDLOW.h0.tar
+atm-SNOWHLND.h0.tar
+lnd-FPI.h0.tar
+ice-siu.h.tar
+atm-FLNR.h0.tar
+lnd-PCH4.h0.tar
+atm-SO2_CLXF.h0.tar
+lnd-FREE_RETRANSN_TO_NPOOL.h0.tar
+ocn-POC_PROD_zint.h.tar
+ocn-SSS2.h.tar
+lnd-SWBGT.h2.tar
+atm-CLDMED.h0.tar
+lnd-TREFMNAV.h0.tar
+ice-sialb.h.tar
+atm-FLNSC.h0.tar
+lnd-BTRANMN.h1.tar
+ice-siitdconc.h.tar
+ocn-CaCO3_PROD_zint_100m.h.tar
+atm-SO2_CMXF.h0.tar
+ocn-graze_sp_zoo_zint_100m.h.tar
+lnd-FROOTC_ALLOC.h0.tar
+lnd-TBUILD.h2.tar
+atm-FLNS.h0.tar
+lnd-PCO2.h0.tar
+atm-CLDTOT.h0.tar
+lnd-TREFMXAV.h0.tar
+atm-FLNTC.h0.tar
+ocn-DOC_remin_zint.h.tar
+lnd-TG.h2.tar
+lnd-FROOTC_LOSS.h0.tar
+ice-siv.h.tar
+ocn-STF_ABIO_DIC14.h.tar
+lnd-HR.h1.tar
+lnd-PFT_FIRE_CLOSS.h0.tar
+atm-SO2_SRF.h0.tar
+atm-FLNTCLR.h0.tar
+ice-sicompstren.h.tar
+Launcher: Job 135 completed in 862 seconds.
+Launcher: Task 12 done. Exiting.
+lnd-TSA_ICE.h0.tar
+ocn-graze_sp_zoo_zint.h.tar
+lnd-FROOTC_TO_LITTER.h0.tar
+lnd-PFT_FIRE_NLOSS.h0.tar
+ocn-POC_REMIN_DIC_zint_100m.h.tar
+lnd-TLAI.h2.tar
+atm-so4_a1_CLXF.h0.tar
+ocn-CaCO3_PROD_zint.h.tar
+atm-FLUTC.h0.tar
+lnd-TSAI.h0.tar
+ocn-DOC_RIV_FLUX.h.tar
+ocn-STF_ABIO_DIC.h.tar
+lnd-FSA.h0.tar
+ice-sndmassmelt.h.tar
+lnd-PLANT_NDEMAND.h0.tar
+atm-FLUT.h0.tar
+lnd-TSL.h0.tar
+lnd-TOTSOILICE.h2.tar
+ocn-HBLT.h.tar
+ice-sidconcdyn.h.tar
+lnd-FSAT.h0.tar
+atm-so4_a1_CMXF.h0.tar
+lnd-TSOI_10CM.h0.tar
+lnd-TOTSOILLIQ.h2.tar
+lnd-GPP.h1.tar
+lnd-POTENTIAL_IMMOB.h0.tar
+ocn-CaCO3_REMIN_zint_100m.h.tar
+atm-FREQCLR.h0.tar
+ocn-POC_REMIN_DIC_zint.h.tar
+atm-so4_a1DDF.h0.tar
+ice-sndmasssnf.h.tar
+lnd-U10_DUST.h0.tar
+ocn-DOCr_remin_zint_100m.h.tar
+lnd-QIRRIG.h1.tar
+lnd-FSDS.h0.tar
+lnd-POT_F_DENIT.h0.tar
+lnd-TREFMNAV.h2.tar
+atm-FREQZM.h0.tar
+ocn-HDIFS.h.tar
+ocn-STF_ALK_ALT_CO2.h.tar
+ice-sidconcth.h.tar
+atm-so4_a1_sfgaex1.h0.tar
+lnd-FSDSND.h0.tar
+lnd-POT_F_NIT.h0.tar
+lnd-URBAN_AC.h0.tar
+atm-FSDSC.h0.tar
+lnd-TREFMXAV.h2.tar
+ocn-CaCO3_REMIN_zint.h.tar
+ocn-POC_REMIN_DOCr_zint_100m.h.tar
+ocn-DOCr_remin_zint.h.tar
+atm-so4_a1SFWET.h0.tar
+lnd-URBAN_HEAT.h0.tar
+atm-FSDS.h0.tar
+ice-sndmassubl.h.tar
+lnd-FSDSNDLN.h0.tar
+lnd-PSNSHADE_TO_CPOOL.h0.tar
+ice-sidmassdyn.h.tar
+ocn-HDIFT.h.tar
+atm-so4_a1_SRF.h0.tar
+lnd-TSA.h2.tar
+lnd-UST_LAKE.h0.tar
+atm-FSNR.h0.tar
+ocn-STF_ALK.h.tar
+lnd-FSDSNI.h0.tar
+lnd-PSNSHA.h0.tar
+atm-so4_a2_CLXF.h0.tar
+lnd-TSKIN.h2.tar
+atm-FSNSC.h0.tar
+lnd-VCMX25T.h0.tar
+ocn-calcToSed_ALT_CO2.h.tar
+lnd-TLAKE.h0.tar
+lnd-PSNSUN.h0.tar
+atm-so4_a2_CMXF.h0.tar
+lnd-FSDSVD.h0.tar
+ocn-POC_REMIN_DOCr_zint.h.tar
+ocn-DOCr_RIV_FLUX.h.tar
+ice-sidmassevapsubl.h.tar
+lnd-Vcmx25Z.h0.tar
+atm-FSNS.h0.tar
+ocn-HLS_SUBM.h.tar
+atm-so4_a2DDF.h0.tar
+ice-snoice.h.tar
+lnd-TSOI_10CM.h2.tar
+lnd-FSDSVDLN.h0.tar
+ocn-SU.h.tar
+ice-vicen.h.tar
+lnd-VOLR.h0.tar
+atm-so4_a2_sfgaex1.h0.tar
+ocn-DON_RIV_FLUX.h.tar
+lnd-PSNSUN_TO_CPOOL.h0.tar
+atm-FSNTC.h0.tar
+lnd-FSDSVI.h0.tar
+lnd-U10.h2.tar
+ocn-calcToSed.h.tar
+ocn-pocToSed.h.tar
+lnd-VOLRMCH.h0.tar
+atm-FSNT.h0.tar
+ice-sidmassgrowthbot.h.tar
+atm-so4_a2_sfnnuc1.h0.tar
+ocn-SV.h.tar
+lnd-FSDSVILN.h0.tar
+ice-snowfrac.h.tar
+ocn-HMXL_DR2.h.tar
+lnd-QBOT.h0.tar
+lnd-WA.h0.tar
+lnd-URBAN_AC.h2.tar
+lnd-FSH_G.h0.tar
+atm-FSNTOAC.h0.tar
+ocn-ponToSed.h.tar
+lnd-WASTEHEAT.h0.tar
+ocn-DONr_RIV_FLUX.h.tar
+lnd-QCHARGE.h0.tar
+ocn-CO2STAR_ALT_CO2.h.tar
+atm-so4_a2SFWET.h0.tar
+lnd-URBAN_HEAT.h2.tar
+atm-FSNTOA.h0.tar
+lnd-FSH.h0.tar
+lnd-QDRAI_PERCH.h0.tar
+ice-snow.h.tar
+ocn-HMXL_DR.h.tar
+ice-sidmassgrowthwat.h.tar
+ocn-TAUX2.h.tar
+atm-so4_a2_SRF.h0.tar
+lnd-WBT_R.h0.tar
+Launcher: Job 136 completed in 888 seconds.
+Launcher: Task 19 done. Exiting.
+lnd-WASTEHEAT.h2.tar
+atm-FSUTOA.h0.tar
+lnd-QDRAI_XS.h0.tar
+ocn-DOP_RIV_FLUX.h.tar
+lnd-FSH_ICE.h0.tar
+atm-so4_a3DDF.h0.tar
+lnd-WOOD_HARVESTC.h2.tar
+atm-GS_SO2.h0.tar
+ocn-POP_FLUX_100m.h.tar
+lnd-QFLOOD.h0.tar
+lnd-FSH_PRECIP_CONVERSION.h0.tar
+ocn-CO2STAR.h.tar
+lnd-WBT_U.h0.tar
+ocn-TAUX.h.tar
+atm-so4_a3_sfgaex1.h0.tar
+lnd-PCT_LANDUNIT.h0.tar
+ice-strairx.h.tar
+lnd-ACTUAL_IMMOB.h0.tar
+lnd-QFLX_DEW_GRND.h0.tar
+ocn-HMXL.h.tar
+lnd-FSH_R.h0.tar
+lnd-WIND.h0.tar
+atm-H2O2_SRF.h0.tar
+ice-sidmasslat.h.tar
+lnd-ALT.h0.tar
+lnd-QFLX_DEW_SNOW.h0.tar
+ocn-DOPr_RIV_FLUX.h.tar
+lnd-FSH_RUNOFF_ICE_TO_LIQ.h0.tar
+ocn-DCO2STAR_ALT_CO2.h.tar
+Launcher: Job 137 completed in 824 seconds.
+Launcher: Task 3 done. Exiting.
+atm-so4_a3SFWET.h0.tar
+lnd-QVEGT.h1.tar
+lnd-WOODC_ALLOC.h0.tar
+lnd-ALTMAX.h0.tar
+atm-H2O_CLXF.h0.tar
+lnd-QFLX_EVAP_TOT.h0.tar
+ocn-IFRAC.h.tar
+atm-so4_a3_SRF.h0.tar
+ocn-TAUY2.h.tar
+ocn-popToSed.h.tar
+ice-strairy.h.tar
+lnd-FSH_TO_COUPLER.h0.tar
+lnd-WOOD_HARVESTC.h0.tar
+atm-H2O_CMXF.h0.tar
+lnd-AR.h0.tar
+atm-so4_c1AQH2SO4.h0.tar
+lnd-QFLX_ICE_DYNBAL.h0.tar
+lnd-WOOD_HARVESTN.h0.tar
+ice-sidmassmeltbot.h.tar
+ocn-DCO2STAR.h.tar
+atm-H2O_SRF.h0.tar
+ocn-TAUY.h.tar
+lnd-QFLX_LIQ_DYNBAL.h0.tar
+lnd-ATM_TOPO.h0.tar
+atm-so4_c1AQSO4.h0.tar
+ocn-DpCO2_ALT_CO2.h.tar
+lnd-FSH_V.h0.tar
+lnd-WTGQ.h0.tar
+ice-strcorx.h.tar
+ice-aice.h.tar
+ocn-PREC_F.h.tar
+ocn-INT_DEPTH.h.tar
+lnd-QFLX_SNOW_DRAIN.h0.tar
+atm-H2SO4_sfnnuc1.h0.tar
+atm-so4_c1SFWET.h0.tar
+lnd-BAF_CROP.h0.tar
+lnd-XSMRPOOL.h0.tar
+ocn-TBLT.h.tar
+lnd-FSNO_EFF.h0.tar
+atm-H2SO4_SRF.h0.tar
+lnd-QFLX_SNOW_DRAIN_ICE.h0.tar
+ice-sidmassmelttop.h.tar
+lnd-BAF_PEATF.h0.tar
+lnd-XSMRPOOL_RECOVER.h0.tar
+ocn-DpCO2.h.tar
+atm-so4_c2AQH2SO4.h0.tar
+ocn-QFLUX.h.tar
+ocn-DIA_DEPTH.h.tar
+ice-albsni.h.tar
+lnd-FSNO.h0.tar
+lnd-BCDEP.h0.tar
+atm-ICEFRAC.h0.tar
+atm-so4_c2AQSO4.h0.tar
+lnd-QFLX_SUB_SNOW.h0.tar
+ocn-IOFF_F.h.tar
+lnd-ZBOT.h0.tar
+ice-strcory.h.tar
+atm-LANDFRAC.h0.tar
+lnd-BTRAN2.h0.tar
+lnd-FSNO_ICE.h0.tar
+lnd-QFLX_SUB_SNOW_ICE.h0.tar
+atm-so4_c2SFWET.h0.tar
+lnd-ZWT_CH4_UNSAT.h0.tar
+ocn-tend_zint_100m_ALK_ALT_CO2.h.tar
+ocn-dustToSed.h.tar
+ocn-diat_agg_zint_100m.h.tar
+ice-sidmasssi.h.tar
+lnd-BTRANMN.h0.tar
+ice-alidf_ai.h.tar
+atm-LHFLX.h0.tar
+lnd-QIRRIG.h0.tar
+atm-so4_c3AQH2SO4.h0.tar
+lnd-FSR.h0.tar
+ocn-QSW_BIN_01.h.tar
+lnd-ZWT.h0.tar
+ocn-IRON_FLUX.h.tar
+ice-strength.h.tar
+lnd-CH4PROD.h0.tar
+atm-LWCF.h0.tar
+lnd-PCT_CFT.h3.tar
+lnd-QRGWL.h0.tar
+atm-so4_c3AQSO4.h0.tar
+ocn-diat_agg_zint.h.tar
+lnd-ZWT_PERCH.h0.tar
+lnd-CH4_SURF_AERE_SAT.h0.tar
+ocn-tend_zint_100m_ALK.h.tar
+lnd-FSR_ICE.h0.tar
+atm-MSKtem.h0.tar
+ocn-ECOSYS_ATM_PRESS.h.tar
+ice-sidmassth.h.tar
+lnd-AGNPP.h0.tar
+lnd-QRUNOFF.h0.tar
+ocn-Jint_100m_ALK_ALT_CO2.h.tar
+atm-so4_c3SFWET.h0.tar
+lnd-FSRND.h0.tar
+ice-alidr_ai.h.tar
+lnd-CH4_SURF_AERE_UNSAT.h0.tar
+ocn-QSW_BIN_02.h.tar
+atm-ncl_a1DDF.h0.tar
+lnd-QRUNOFF_ICE.h0.tar
+lnd-BGNPP.h0.tar
+ice-strintx.h.tar
+atm-soa_a1DDF.h0.tar
+lnd-FSRNDLN.h0.tar
+ocn-diat_Fe_lim_Cweight_avg_100m.h.tar
+lnd-CH4_SURF_DIFF_SAT.h0.tar
+atm-soa_a1SFWET.h0.tar
+lnd-CWDC.h0.tar
+lnd-FSRNI.h0.tar
+ocn-ECOSYS_IFRAC.h.tar
+atm-ncl_a1SF.h0.tar
+ocn-Jint_100m_ALK.h.tar
+lnd-QRUNOFF_ICE_TO_COUPLER.h0.tar
+ocn-tend_zint_100m_DIC_ALT_CO2.h.tar
+ice-alvdf_ai.h.tar
+lnd-CH4_SURF_DIFF_UNSAT.h0.tar
+atm-soa_a1_SRF.h0.tar
+ocn-QSW_BIN_03.h.tar
+atm-ncl_a1SFWET.h0.tar
+lnd-CWDN.h0.tar
+ice-sidmasstranx.h.tar
+ice-strinty.h.tar
+lnd-QRUNOFF_RAIN_TO_SNOW_CONVERSION.h0.tar
+ocn-diat_Fe_lim_surf.h.tar
+lnd-FSRVD.h0.tar
+atm-soa_a2DDF.h0.tar
+lnd-CH4_SURF_EBUL_SAT.h0.tar
+lnd-DEADSTEMC.h0.tar
+Launcher: Job 139 completed in 724 seconds.
+Launcher: Task 8 done. Exiting.
+lnd-QRUNOFF_TO_COUPLER.h0.tar
+ocn-Jint_100m_DIC_ALT_CO2.h.tar
+atm-ncl_a1_SRF.h0.tar
+atm-soa_a2SFWET.h0.tar
+lnd-FSRVDLN.h0.tar
+lnd-CH4_SURF_EBUL_UNSAT.h0.tar
+lnd-DEADSTEMN.h0.tar
+ocn-ECOSYS_XKW.h.tar
+ocn-QSW_BIN_04.h.tar
+ocn-tend_zint_100m_DIC.h.tar
+ice-sidmasstrany.h.tar
+lnd-QSNOCPLIQ.h0.tar
+lnd-FSRVI.h0.tar
+lnd-COL_FIRE_CLOSS.h0.tar
+ice-strocnx.h.tar
+atm-soa_a2_SRF.h0.tar
+ocn-diat_light_lim_Cweight_avg_100m.h.tar
+atm-ncl_a2DDF.h0.tar
+lnd-FCEV.h0.tar
+ice-alvdr_ai.h.tar
+lnd-QSNOEVAP.h0.tar
+lnd-GPP.h0.tar
+atm-soa_c1SFWET.h0.tar
+Launcher: Job 138 completed in 772 seconds.
+Launcher: Task 7 done. Exiting.
+atm-ncl_a2SF.h0.tar
+lnd-COL_FIRE_NLOSS.h0.tar
+ocn-Jint_100m_DIC.h.tar
+ocn-QSW_BIN_05.h.tar
+ocn-EVAP_F.h.tar
+lnd-FCTR.h0.tar
+ocn-tend_zint_100m_DOC.h.tar
+lnd-GRAINC.h0.tar
+atm-ncl_a2SFWET.h0.tar
+ocn-diat_light_lim_surf.h.tar
+ice-sidragtop.h.tar
+atm-soa_c2SFWET.h0.tar
+lnd-QSNOFRZ.h0.tar
+lnd-COST_NACTIVE.h0.tar
+atm-ncl_a2_SRF.h0.tar
+ice-apeff_ai.h.tar
+lnd-GRAINC_TO_FOOD.h0.tar
+ice-strocny.h.tar
+atm-SOAG_SRF.h0.tar
+lnd-FGEV.h0.tar
+ocn-QSW_BIN_06.h.tar
+lnd-QSNOFRZ_ICE.h0.tar
+ocn-Fe_RIV_FLUX.h.tar
+lnd-COST_NFIX.h0.tar
+ocn-Jint_100m_DOC.h.tar
+atm-ncl_a3DDF.h0.tar
+lnd-GRAINC_TO_SEED.h0.tar
+atm-SOLIN.h0.tar
+lnd-FPSN.h0.tar
+lnd-COST_NRETRANS.h0.tar
+lnd-QSNOMELT_ICE.h0.tar
+ocn-tend_zint_100m_DOCr.h.tar
+atm-ncl_a3SF.h0.tar
+ice-sifb.h.tar
+lnd-GR.h0.tar
+atm-SOLLD.h0.tar
+ice-apond_ai.h.tar
+lnd-FROOTC.h0.tar
+ocn-diat_loss_doc_zint_100m.h.tar
+ocn-FG_ABIO_DIC14.h.tar
+lnd-QSNO_TEMPUNLOAD.h0.tar
+ocn-QSW_HBL.h.tar
+ocn-Jint_100m_DOCr.h.tar
+lnd-GROSS_NMIN.h0.tar
+lnd-CPHASE.h0.tar
+ice-strtltx.h.tar
+lnd-FROOTN.h0.tar
+atm-SOLSD.h0.tar
+ocn-tend_zint_100m_Fe.h.tar
+lnd-QSNO_WINDUNLOAD.h0.tar
+atm-ncl_a3SFWET.h0.tar
+lnd-CPOOL.h0.tar
+lnd-GSSHA.h0.tar
+lnd-QSNWCPICE.h0.tar
+atm-SST.h0.tar
+ice-siflcondbot.h.tar
+lnd-FSM.h0.tar
+ice-ardg.h.tar
+ocn-QSW_HTP.h.tar
+atm-ncl_a3_SRF.h0.tar
+ocn-FG_ABIO_DIC.h.tar
+ocn-Jint_100m_Fe.h.tar
+ocn-diat_loss_doc_zint.h.tar
+lnd-GSSHALN.h0.tar
+lnd-QSOIL.h0.tar
+ice-strtlty.h.tar
+lnd-CROPPROD1C.h0.tar
+atm-TAUBLJX.h0.tar
+lnd-FUELC.h0.tar
+ocn-tend_zint_100m_NH4.h.tar
+atm-ncl_c1SFWET.h0.tar
+lnd-GSSUN.h0.tar
+lnd-QSOIL_ICE.h0.tar
+lnd-GRAINN.h0.tar
+lnd-CROPPROD1C_LOSS.h0.tar
+atm-TAUBLJY.h0.tar
+ice-siflcondtop.h.tar
+atm-ncl_c2SFWET.h0.tar
+ocn-Jint_100m_NH4.h.tar
+ocn-FG_ALT_CO2.h.tar
+lnd-H2OCAN.h0.tar
+lnd-GSSUNLN.h0.tar
+ocn-RESID_S.h.tar
+atm-ncl_c3SFWET.h0.tar
+lnd-RAIN_FROM_ATM.h0.tar
+lnd-CROPPROD1N.h0.tar
+ice-congel.h.tar
+atm-TAUGWX.h0.tar
+lnd-H2OSNO.h0.tar
+ocn-diat_loss_poc_zint_100m.h.tar
+ocn-tend_zint_100m_NO3.h.tar
+lnd-H2OSFC.h0.tar
+ice-Tsfc.h.tar
+atm-num_a1_CLXF.h0.tar
+lnd-RAIN.h0.tar
+lnd-CROPPROD1N_LOSS.h0.tar
+lnd-H2OSNO_TOP.h0.tar
+atm-TAUGWY.h0.tar
+ocn-FG_CO2.h.tar
+lnd-RAIN_ICE.h0.tar
+lnd-HIA.h0.tar
+atm-num_a1_CMXF.h0.tar
+lnd-CROPSEEDC_DEFICIT.h0.tar
+ice-siflfwbot.h.tar
+ocn-Jint_100m_NO3.h.tar
+lnd-HEAT_CONTENT1.h0.tar
+ice-dagedtd.h.tar
+atm-TAUX.h0.tar
+ocn-RESID_T.h.tar
+lnd-RETRANSN.h0.tar
+atm-num_a1DDF.h0.tar
+lnd-HTOP.h0.tar
+lnd-CWDC_LOSS.h0.tar
+ocn-diat_loss_poc_zint.h.tar
+ocn-tend_zint_100m_O2.h.tar
+ice-uatm.h.tar
+lnd-HEAT_FROM_AC.h0.tar
+ocn-FRACR_BIN_01.h.tar
+atm-num_a1SF.h0.tar
+lnd-HUMIDEX.h0.tar
+lnd-DEADCROOTC.h0.tar
+ocn-Jint_100m_O2.h.tar
+atm-TAUY.h0.tar
+lnd-RETRANSN_TO_NPOOL.h0.tar
+lnd-HIA_R.h0.tar
+ice-siflfwdrain.h.tar
+lnd-DEADCROOTN.h0.tar
+lnd-LEAFC.h0.tar
+ocn-diat_loss_zint_100m.h.tar
+ice-dagedtt.h.tar
+atm-TGCLDCWP.h0.tar
+ocn-RHO_VINT.h.tar
+lnd-RR.h0.tar
+lnd-HIA_U.h0.tar
+atm-num_a1SFWET.h0.tar
+ice-uvel.h.tar
+ocn-tend_zint_100m_PO4.h.tar
+ocn-FRACR_BIN_02.h.tar
+atm-TGCLDIWP.h0.tar
+lnd-DENIT.h0.tar
+lnd-RSSHA.h0.tar
+lnd-HR.h0.tar
+atm-num_a1_SRF.h0.tar
+lnd-LEAFC_LOSS.h0.tar
+ice-sifllatstop.h.tar
+atm-TGCLDLWP.h0.tar
+ocn-ROFF_F.h.tar
+lnd-RSSUN.h0.tar
+ocn-Jint_100m_PO4.h.tar
+lnd-HUMIDEX_R.h0.tar
+Launcher: Job 140 completed in 809 seconds.
+Launcher: Task 16 done. Exiting.
+ice-daidtd.h.tar
+atm-num_a2_CLXF.h0.tar
+ocn-tend_zint_100m_SiO3.h.tar
+lnd-LEAFN.h0.tar
+ice-vatm.h.tar
+lnd-DISPVEGC.h0.tar
+lnd-SABG.h0.tar
+ocn-FRACR_BIN_03.h.tar
+atm-TMCO2_FFF.h0.tar
+lnd-DISPVEGN.h0.tar
+lnd-LITR1C.h0.tar
+lnd-HUMIDEX_U.h0.tar
+atm-num_a2_CMXF.h0.tar
+ice-sifllwdtop.h.tar
+lnd-SABG_PEN.h0.tar
+lnd-ICE_CONTENT1.h0.tar
+lnd-DSL.h0.tar
+ocn-T_FLUX_EXCH_INTRF.h.tar
+ice-daidtt.h.tar
+atm-num_a2DDF.h0.tar
+atm-TMCO2.h0.tar
+lnd-LITR1N.h0.tar
+ice-vvel.h.tar
+ocn-Jint_100m_SiO3.h.tar
+ocn-FRACR_BIN_05.h.tar
+lnd-SABV.h0.tar
+ocn-SALT_F.h.tar
+lnd-DSTDEP.h0.tar
+lnd-JCONVECT.h0.tar
+atm-TMCO2_LND.h0.tar
+lnd-LITR2C.h0.tar
+atm-num_a2SF.h0.tar
+lnd-SEEDC.h0.tar
+lnd-DSTFLXT.h0.tar
+ocn-TFW_S.h.tar
+ice-sifllwutop.h.tar
+lnd-JMX25T.h0.tar
+lnd-LITR2N.h0.tar
+Launcher: Job 145 completed in 640 seconds.
+Launcher: Task 4 done. Exiting.
+lnd-SEEDN.h0.tar
+lnd-DWT_CONV_CFLUX_DRIBBLED.h0.tar
+atm-num_a2_sfnnuc1.h0.tar
+atm-TMCO2_OCN.h0.tar
+ocn-FRACR_BIN_06.h.tar
+ocn-Jint_ABIO_DIC14.h.tar
+ice-divu.h.tar
+lnd-Jmx25Z.h0.tar
+lnd-LITR3C.h0.tar
+ocn-SCHMIDT_CO2.h.tar
+atm-num_a2SFWET.h0.tar
+lnd-DWT_CONV_CFLUX.h0.tar
+lnd-SLASH_HARVESTC.h0.tar
+atm-TMDMS.h0.tar
+atm-num_a2_SRF.h0.tar
+ocn-TFW_T.h.tar
+lnd-LITR3N.h0.tar
+lnd-LAISHA.h0.tar
+lnd-SMIN_NO3_LEACHED.h0.tar
+ocn-FvICE_ABIO_DIC14.h.tar
+ice-siflsaltbot.h.tar
+atm-TMQ.h0.tar
+ocn-LWDN_F.h.tar
+lnd-DWT_CONV_NFLUX.h0.tar
+Launcher: Job 141 completed in 803 seconds.
+Launcher: Task 2 done. Exiting.
+lnd-LIVESTEMC.h0.tar
+ocn-SCHMIDT_O2.h.tar
+lnd-LAISUN.h0.tar
+atm-num_a3DDF.h0.tar
+lnd-SMIN_NO3_RUNOFF.h0.tar
+atm-TMSO2.h0.tar
+lnd-DWT_CROPPROD1C_GAIN.h0.tar
+lnd-LAKEICEFRAC_SURF.h0.tar
+atm-num_a3SF.h0.tar
+lnd-LIVESTEMN.h0.tar
+lnd-SMINN_TO_NPOOL.h0.tar
+lnd-DWT_CROPPROD1N_GAIN.h0.tar
+ocn-FvICE_ABIO_DIC.h.tar
+ocn-TLT.h.tar
+atm-TMso4_a1.h0.tar
+ice-siflsenstop.h.tar
+atm-num_a3SFWET.h0.tar
+lnd-Q2M.h0.tar
+ocn-LWUP_F.h.tar
+lnd-DWT_SEEDN_TO_DEADSTEM.h0.tar
+atm-TMso4_a2.h0.tar
+ocn-SEAICE_BLACK_CARBON_FLUX_CPL.h.tar
+lnd-LAKEICETHICK.h0.tar
+lnd-SMINN_TO_PLANT_FUN.h0.tar
+atm-TMso4_a3.h0.tar
+lnd-QDRAI.h0.tar
+ocn-TMXL_DR.h.tar
+lnd-DWT_SEEDN_TO_LEAF.h0.tar
+atm-num_a3_SRF.h0.tar
+lnd-LAND_USE_FLUX.h0.tar
+ocn-FvICE_ALK_ALT_CO2.h.tar
+lnd-SMINN_TO_PLANT.h0.tar
+ice-siflsensupbot.h.tar
+atm-TREFHT.h0.tar
+lnd-QDRIP.h0.tar
+lnd-DWT_SLASH_CFLUX.h0.tar
+ocn-MELT_F.h.tar
+ocn-SEAICE_DUST_FLUX_CPL.h.tar
+atm-num_a4_CLXF.h0.tar
+lnd-LEAFC_ALLOC.h0.tar
+lnd-SNOBCMCL.h0.tar
+atm-TREFHTMN.h0.tar
+ocn-TMXL.h.tar
+atm-num_a4_CMXF.h0.tar
+lnd-DWT_WOODPRODC_GAIN.h0.tar
+lnd-QH2OSFC.h0.tar
+lnd-SNOBCMSL.h0.tar
+lnd-LEAFC_CHANGE.h0.tar
+ocn-FvICE_ALK.h.tar
+ice-siflswdbot.h.tar
+atm-num_a4DDF.h0.tar
+ocn-SedDenitrif.h.tar
+atm-TREFHTMX.h0.tar
+lnd-QICE_FRZ.h0.tar
+lnd-DWT_WOODPRODN_GAIN.h0.tar
+ocn-MELTH_F.h.tar
+lnd-LEAFCN.h0.tar
+lnd-SNODSTMCL.h0.tar
+atm-num_a4SFWET.h0.tar
+ocn-XBLT.h.tar
+lnd-QICE.h0.tar
+atm-TROP_P.h0.tar
+lnd-DWT_WOOD_PRODUCTC_GAIN_PATCH.h0.tar
+lnd-LEAFC_TO_LITTER_FUN.h0.tar
+atm-num_a4_SRF.h0.tar
+lnd-QICE_MELT.h0.tar
+lnd-SNODSTMSL.h0.tar
+ice-siflswdtop.h.tar
+lnd-EFLXBUILD.h0.tar
+atm-TROP_T.h0.tar
+ocn-NHx_SURFACE_EMIS.h.tar
+lnd-LEAFC_TO_LITTER.h0.tar
+ocn-FvICE_DIC_ALT_CO2.h.tar
+atm-num_c1SFWET.h0.tar
+ocn-XMXL_DR.h.tar
+ocn-SENH_F.h.tar
+atm-TROP_Z.h0.tar
+lnd-QINFL.h0.tar
+lnd-LEAF_MR.h0.tar
+lnd-EFLX_DYNBAL.h0.tar
+ocn-NHy_FLUX.h.tar
+atm-num_c2SFWET.h0.tar
+lnd-LEAFN_TO_LITTER.h0.tar
+lnd-SNOFSRND.h0.tar
+atm-TS.h0.tar
+lnd-QINTR.h0.tar
+ocn-FvICE_DIC.h.tar
+ocn-XMXL.h.tar
+ice-siflswutop.h.tar
+lnd-EFLX_GRND_LAKE.h0.tar
+lnd-SNOFSRNI.h0.tar
+atm-num_c3SFWET.h0.tar
+ocn-S_FLUX_EXCH_INTRF.h.tar
+lnd-QOVER.h0.tar
+lnd-EFLX_LH_TOT.h0.tar
+atm-TSMN.h0.tar
+lnd-LFC2.h0.tar
+atm-num_c4DDF.h0.tar
+lnd-SNOFSRVD.h0.tar
+lnd-QSNOMELT.h0.tar
+Launcher: Job 143 completed in 765 seconds.
+Launcher: Task 9 done. Exiting.
+ocn-FvPER_ABIO_DIC14.h.tar
+lnd-LIQCAN.h0.tar
+atm-TSMX.h0.tar
+ocn-NO3_RIV_FLUX.h.tar
+atm-num_c4SFWET.h0.tar
+lnd-SNOFSRVI.h0.tar
+ocn-zoo_loss_doc_zint_100m.h.tar
+lnd-QVEGE.h0.tar
+Launcher: Job 144 completed in 735 seconds.
+Launcher: Task 5 done. Exiting.
+lnd-LIQUID_CONTENT1.h0.tar
+atm-U10.h0.tar
+atm-OCNFRAC.h0.tar
+ocn-S_FLUX_ROFF_VSF_SRF.h.tar
+lnd-QVEGT.h0.tar
+lnd-SNOINTABS.h0.tar
+lnd-LITFALL.h0.tar
+atm-PBLH.h0.tar
+ocn-NOx_FLUX.h.tar
+ocn-FvPER_ABIO_DIC.h.tar
+atm-WD_H2O2.h0.tar
+lnd-RH2M.h0.tar
+lnd-LITR1C_TO_SOIL1C.h0.tar
+ocn-SFWF.h.tar
+lnd-SNOOCMCL.h0.tar
+atm-PHIS.h0.tar
+atm-WD_H2SO4.h0.tar
+lnd-SMINN.h0.tar
+lnd-LITR1N_TO_SOIL1N.h0.tar
+lnd-SNOOCMSL.h0.tar
+atm-pom_a1DDF.h0.tar
+ocn-zoo_loss_doc_zint.h.tar
+ocn-FvPER_ALK_ALT_CO2.h.tar
+ocn-O2SAT.h.tar
+atm-WD_SO2.h0.tar
+lnd-SMIN_NH4.h0.tar
+lnd-LITR2C_TO_SOIL1C.h0.tar
+lnd-SNOTXMASS.h0.tar
+atm-pom_a1SFWET.h0.tar
+ocn-SFWF_WRST.h.tar
+atm-wet_deposition_NHx_as_N.h0.tar
+lnd-SMIN_NO3.h0.tar
+lnd-LITR2N_TO_SOIL1N.h0.tar
+lnd-SNOTXMASS_ICE.h0.tar
+atm-pom_a1_SRF.h0.tar
+lnd-SNOCAN.h0.tar
+ocn-zoo_loss_poc_zint_100m.h.tar
+lnd-LITR3C_TO_SOIL2C.h0.tar
+atm-WSPDSRFAV.h0.tar
+lnd-SNOUNLOAD.h0.tar
+ocn-FvPER_ALK.h.tar
+ocn-O2_ZMIN_DEPTH.h.tar
+lnd-SNOWICE.h0.tar
+atm-pom_a4_CLXF.h0.tar
+atm-WSPDSRFMX.h0.tar
+lnd-SNOW_DEPTH.h0.tar
+lnd-LITR3N_TO_SOIL2N.h0.tar
+ocn-SHF.h.tar
+atm-UWzm.h0.tar
+atm-pom_a4_CMXF.h0.tar
+lnd-SOIL1C.h0.tar
+lnd-SNOWDP.h0.tar
+lnd-LITTERC_HR.h0.tar
+atm-FLNT.h0.tar
+Launcher: Job 146 completed in 744 seconds.
+Launcher: Task 17 done. Exiting.
+atm-pom_a4DDF.h0.tar
+ocn-zoo_loss_poc_zint.h.tar
+lnd-SNOW_FROM_ATM.h0.tar
+Launcher: Job 147 completed in 735 seconds.
+Launcher: Task 18 done. Exiting.
+lnd-SOIL1N.h0.tar
+atm-bc_c4SFWET.h0.tar
+lnd-LITTERC_LOSS.h0.tar
+ocn-SHF_QSW.h.tar
+atm-pom_a4SFWET.h0.tar
+lnd-SNOW.h0.tar
+lnd-SOIL2C.h0.tar
+atm-wet_deposition_NOy_as_N.h0.tar
+lnd-LIVECROOTC.h0.tar
+atm-pom_a4_SRF.h0.tar
+ocn-zoo_loss_zint_100m.h.tar
+lnd-SNOW_ICE.h0.tar
+lnd-SOIL2N.h0.tar
+Launcher: Job 154 completed in 523 seconds.
+Launcher: Task 11 done. Exiting.
+lnd-SNOWICE_ICE.h0.tar
+lnd-SOIL3C.h0.tar
+ocn-SiO2_FLUX_100m.h.tar
+lnd-LIVECROOTN.h0.tar
+atm-pom_c1SFWET.h0.tar
+lnd-SNOWLIQ.h0.tar
+lnd-SOIL3N.h0.tar
+lnd-LNC.h0.tar
+atm-pom_c4DDF.h0.tar
+ocn-zoo_loss_zint.h.tar
+lnd-SNOWLIQ_ICE.h0.tar
+lnd-TAUX.h0.tar
+lnd-MR.h0.tar
+ocn-SiO3_RIV_FLUX.h.tar
+atm-pom_c4SFWET.h0.tar
+lnd-SNOW_PERSISTENCE.h0.tar
+lnd-TG.h0.tar
+lnd-NACTIVE.h0.tar
+atm-PRECC.h0.tar
+lnd-SNOW_SINKS.h0.tar
+lnd-NACTIVE_NH4.h0.tar
+lnd-TOTLITN.h0.tar
+ocn-zsatarag.h.tar
+atm-PRECL.h0.tar
+ocn-SNOW_F.h.tar
+lnd-SNOW_SOURCES.h0.tar
+lnd-NACTIVE_NO3.h0.tar
+lnd-TSA.h0.tar
+atm-PRECSC.h0.tar
+lnd-SOILC_CHANGE.h0.tar
+lnd-NAM.h0.tar
+lnd-TSKIN.h0.tar
+lnd-SOILC_HR.h0.tar
+ocn-zsatcalc.h.tar
+ocn-sp_agg_zint_100m.h.tar
+atm-PRECSL.h0.tar
+lnd-NAM_NH4.h0.tar
+lnd-TV.h0.tar
+lnd-SOILRESIS.h0.tar
+atm-PRECT.h0.tar
+lnd-NAM_NO3.h0.tar
+lnd-SOILWATER_10CM.h0.tar
+atm-PS.h0.tar
+lnd-TWS.h0.tar
+ocn-sp_agg_zint.h.tar
+lnd-NBP.h0.tar
+lnd-SOMC_FIRE.h0.tar
+atm-PSL.h0.tar
+lnd-U10.h0.tar
+ocn-diaz_loss_zint_100m.h.tar
+lnd-NDEPLOY.h0.tar
+lnd-WBT.h0.tar
+atm-QFLX.h0.tar
+lnd-SOM_C_LEACHED.h0.tar
+ocn-sp_Fe_lim_Cweight_avg_100m.h.tar
+lnd-NDEP_TO_SMINN.h0.tar
+ocn-FRACR_BIN_04.h.tar
+atm-QREFHT.h0.tar
+lnd-WOODC.h0.tar
+lnd-SR.h0.tar
+lnd-NECM.h0.tar
+atm-RHREFHT.h0.tar
+lnd-WOODC_LOSS.h0.tar
+Launcher: Job 148 completed in 734 seconds.
+Launcher: Task 10 done. Exiting.
+lnd-STORVEGC.h0.tar
+ocn-sp_loss_poc_zint_100m.h.tar
+lnd-QICE_FORC.h3.tar
+lnd-NECM_NH4.h0.tar
+atm-SFbc_a1.h0.tar
+lnd-STORVEGN.h0.tar
+lnd-TOPO_FORC.h3.tar
+lnd-NECM_NO3.h0.tar
+lnd-SUPPLEMENT_TO_SMINN.h0.tar
+ocn-STF_O2.h.tar
+atm-SFbc_a4.h0.tar
+lnd-TSRF_FORC.h3.tar
+lnd-NEE.h0.tar
+lnd-SWBGT.h0.tar
+atm-SFCO2_FFF.h0.tar
+lnd-NEM.h0.tar
+lnd-PCT_GLC_MEC.h3.tar
+lnd-SWBGT_R.h0.tar
+ocn-N_HEAT.h.tar
+ocn-N_SALT.h.tar
+Launcher: Job 149 completed in 684 seconds.
+Launcher: Task 14 done. Exiting.
+atm-SFCO2.h0.tar
+lnd-NEP.h0.tar
+lnd-PCT_LANDUNIT.h3.tar
+lnd-SWBGT_U.h0.tar
+lnd-DEADCROOTC.h4.tar
+lnd-FROOTC.h4.tar
+lnd-NET_NMIN.h0.tar
+lnd-LIVECROOTC.h4.tar
+atm-SFCO2_LND.h0.tar
+lnd-TOTECOSYSC.h4.tar
+lnd-TOTLITC.h4.tar
+lnd-TAUY.h0.tar
+lnd-TOTSOMC_1m.h4.tar
+lnd-TOTSOMC.h4.tar
+lnd-TOTVEGC.h4.tar
+atm-SFCO2_OCN.h0.tar
+lnd-CROPPROD1C.h3.tar
+lnd-FSNO_ICE.h3.tar
+lnd-NFERTILIZATION.h0.tar
+lnd-TOTLITC.h3.tar
+lnd-TBOT.h0.tar
+lnd-TOTSOMC.h3.tar
+lnd-TOTVEGC.h3.tar
+lnd-TOT_WOODPRODC.h3.tar
+Launcher: Job 152 completed in 654 seconds.
+Launcher: Task 0 done. Exiting.
+atm-SFDMS.h0.tar
+lnd-NFIRE.h0.tar
+lnd-TBUILD.h0.tar
+atm-SFdst_a1.h0.tar
+lnd-NFIX.h0.tar
+lnd-TG_ICE.h0.tar
+atm-SFdst_a2.h0.tar
+lnd-NNONMYC.h0.tar
+lnd-TH2OSFC.h0.tar
+atm-SFdst_a3.h0.tar
+lnd-NNONMYC_NH4.h0.tar
+lnd-THBOT.h0.tar
+atm-SFH2O2.h0.tar
+Launcher: Job 150 completed in 709 seconds.
+Launcher: Task 13 done. Exiting.
+atm-SFH2SO4.h0.tar
+lnd-TKE1.h0.tar
+atm-SFncl_a1.h0.tar
+lnd-TLAI.h0.tar
+Launcher: Job 151 completed in 714 seconds.
+Launcher: Task 1 done. Exiting.
+atm-SFncl_a2.h0.tar
+Launcher: Job 153 completed in 691 seconds.
+Launcher: Task 15 done. Exiting.
+Launcher: Done. Job exited without errors
