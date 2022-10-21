@@ -17,4 +17,7 @@ Running these jobs worked for most variables, but not all of them.
 `find_archives.sh` is for use on Ranch and allows the user to search the archive files for specific variables.
 
 ## Simulation Output to Post-Processed Data
+
+The simulation output is organized into muliple netcdf files by model component and then divided into a time series of varying size depending on the time step. The time series associated with each variable was extracted and concatenated into larger segments on the order of 10 to 20 year chunks. These concatenated time series were then archived together. These archives were further archived again into indexed groups to reduce the number of files and target the optimal file size for tape storage on Ranch.
+
 ![Depiction of the post-processing from the original simulation output to the final data now stored on Ranch](schematic.png)
